@@ -40,8 +40,6 @@
     <languageCode>ru</languageCode>
   </languages>
   <subsystems>Subsystem.Бурумбук</subsystems>
-  <roles>Role.Отто</roles>
-  <exchangePlans>ExchangePlan.ПланОбмена</exchangePlans>
   <constants>Constant.ПиуПиу</constants>
   <catalogs>Catalog.Жёпка1</catalogs>
   <catalogs>Catalog.Справочник1</catalogs>
