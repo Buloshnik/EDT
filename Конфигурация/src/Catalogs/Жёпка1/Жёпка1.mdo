@@ -64,10 +64,10 @@
     <dataHistory>Use</dataHistory>
   </attributes>
   <attributes uuid="acd01c2a-b65a-4c74-bda3-cd19f435c25d">
-    <name>Реквизит</name>
+    <name>Реквизит333</name>
     <synonym>
       <key>ru</key>
-      <value>Реквизит</value>
+      <value>Реквизит333</value>
     </synonym>
     <type>
       <types>String</types>
