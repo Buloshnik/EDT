@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d960b340-47b8-4552-be78-3efdb0750425">
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d960b340-47b8-4552-be78-3efdb0750425">
   <producedTypes>
     <objectType typeId="90a75438-7944-48a9-ab4c-0114ad61bf59" valueTypeId="6436501d-7420-40c7-92f0-f2ac3ab49632"/>
     <refType typeId="e04fd4cb-86c0-40bb-8ff3-f4610e805810" valueTypeId="58f9f777-a0f7-49b5-b206-2b8bed1ffca6"/>
@@ -30,4 +30,22 @@
   <defaultPresentation>AsDescription</defaultPresentation>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
+  <attributes uuid="1c2715b9-2979-487a-a0c5-2b40bbc8afc1">
+    <name>ПростоРЕквизит</name>
+    <synonym>
+      <key>ru</key>
+      <value>Просто р еквизит</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
 </mdclass:Catalog>
