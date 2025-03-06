@@ -42,6 +42,7 @@
   <subsystems>Subsystem.Бурумбук</subsystems>
   <subsystems>Subsystem.прикол</subsystems>
   <constants>Constant.Константа</constants>
+  <constants>Constant.Константа1</constants>
   <constants>Constant.ПиуПиу</constants>
   <catalogs>Catalog.Жёпка1</catalogs>
   <catalogs>Catalog.Справочник1</catalogs>
