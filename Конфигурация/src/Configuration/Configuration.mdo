@@ -41,4 +41,5 @@
   </languages>
   <catalogs>Catalog.Жёпка</catalogs>
   <catalogs>Catalog.Справочник1</catalogs>
+  <documents>Document.Документ</documents>
 </mdclass:Configuration>
