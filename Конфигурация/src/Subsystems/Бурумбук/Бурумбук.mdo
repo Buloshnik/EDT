@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="da16f35b-4461-4fb8-a967-10f27f3f3cfb">
+  <name>Бурумбук</name>
+  <synonym>
+    <key>ru</key>
+    <value>Бурумбук</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+</mdclass:Subsystem>
