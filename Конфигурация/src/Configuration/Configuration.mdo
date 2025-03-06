@@ -40,6 +40,7 @@
     <languageCode>ru</languageCode>
   </languages>
   <subsystems>Subsystem.Бурумбук</subsystems>
+  <subsystems>Subsystem.прикол</subsystems>
   <constants>Constant.Константа</constants>
   <constants>Constant.ПиуПиу</constants>
   <catalogs>Catalog.Жёпка1</catalogs>
