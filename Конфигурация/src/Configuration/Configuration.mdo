@@ -39,6 +39,7 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <constants>Constant.Константа</constants>
   <catalogs>Catalog.Жёпка1</catalogs>
   <catalogs>Catalog.Справочник1</catalogs>
   <documents>Document.Документ</documents>
