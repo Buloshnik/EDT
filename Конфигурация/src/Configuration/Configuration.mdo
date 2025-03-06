@@ -39,8 +39,8 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
-  <constants>Constant.ПиуПиу</constants>
   <constants>Constant.Константа</constants>
+  <constants>Constant.ПиуПиу</constants>
   <catalogs>Catalog.Жёпка1</catalogs>
   <catalogs>Catalog.Справочник1</catalogs>
   <documents>Document.Документ</documents>
