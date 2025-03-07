@@ -42,6 +42,7 @@
   <subsystems>Subsystem.Бурумбук</subsystems>
   <roles>Role.Отто</roles>
   <exchangePlans>ExchangePlan.ПланОбмена</exchangePlans>
+  <wsReferences>WSReference.WSСсылка</wsReferences>
   <constants>Constant.ПиуПиу</constants>
   <catalogs>Catalog.Жёпка1</catalogs>
   <catalogs>Catalog.Справочник1</catalogs>

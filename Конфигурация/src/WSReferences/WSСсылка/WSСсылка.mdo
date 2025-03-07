@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:WSReference xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c9983a33-131c-46d9-bc93-856a5e471730">
+  <producedTypes>
+    <managerType typeId="e6e03828-8f9b-4a01-95ba-9b55f9e6b647" valueTypeId="5b53af42-ae40-46a3-ac8e-b06dae5f719c"/>
+  </producedTypes>
+  <name>WSСсылка</name>
+  <synonym>
+    <key>ru</key>
+    <value>WSСсылка</value>
+  </synonym>
+  <locationURL>http://127.0.0.1:8000/</locationURL>
+</mdclass:WSReference>
