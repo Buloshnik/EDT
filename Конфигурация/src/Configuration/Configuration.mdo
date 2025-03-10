@@ -39,4 +39,7 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <commonForms>CommonForm.ФормаГлавнойСтраницы</commonForms>
+  <catalogs>Catalog.ЭтапыПроекта</catalogs>
+  <enums>Enum.ТипЭтапа</enums>
 </mdclass:Configuration>

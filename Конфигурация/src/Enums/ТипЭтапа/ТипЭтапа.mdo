@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a4fd4153-142d-4415-8e7f-216fbbb42a72">
+  <producedTypes>
+    <refType typeId="4e3a2697-b965-4335-a95a-0842cb7400e8" valueTypeId="b13c5d7b-5200-463a-b766-8fcfde9d0210"/>
+    <listType typeId="23dff95e-1e00-4099-810f-e6f4bcd6d2bc" valueTypeId="edb70cb3-e7a3-41eb-a986-b6df45fb498b"/>
+    <managerType typeId="cf8ca7df-139c-4568-b814-86c12de310b3" valueTypeId="95fb80ab-7835-4b39-9c2b-0d3acfed87ee"/>
+  </producedTypes>
+  <name>ТипЭтапа</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тип этапа</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="78906fe0-aa57-44af-998c-42afb0cb6f30">
+    <name>Видео</name>
+    <synonym>
+      <key>ru</key>
+      <value>Видео</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="6db5a400-4173-4f8d-b36f-32772ebb564f">
+    <name>Текст</name>
+    <synonym>
+      <key>ru</key>
+      <value>Текст</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="951f9fce-90fc-4959-aa37-32536958e89d">
+    <name>Обсуждение</name>
+    <synonym>
+      <key>ru</key>
+      <value>Обсуждение</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="2ac73408-7030-4eef-80d6-72ef48ad76be">
+    <name>Протокол</name>
+    <synonym>
+      <key>ru</key>
+      <value>Протокол</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="96679385-0e11-42ff-97ca-44cc6f351adb">
+    <name>Задачи</name>
+    <synonym>
+      <key>ru</key>
+      <value>Задачи</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>
