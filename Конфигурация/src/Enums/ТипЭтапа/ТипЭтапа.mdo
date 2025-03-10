@@ -47,4 +47,11 @@
       <value>Задачи</value>
     </synonym>
   </enumValues>
+  <enumValues uuid="1f246ec3-0f55-4e13-b711-5991812931d4">
+    <name>Аудио</name>
+    <synonym>
+      <key>ru</key>
+      <value>Аудио</value>
+    </synonym>
+  </enumValues>
 </mdclass:Enum>
