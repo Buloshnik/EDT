@@ -54,11 +54,4 @@
       <value>Аудио</value>
     </synonym>
   </enumValues>
-  <enumValues uuid="8acce90b-fad4-4726-84d0-5850a931c70d">
-    <name>РасшифровкаВидео</name>
-    <synonym>
-      <key>ru</key>
-      <value>Расшифровка видео</value>
-    </synonym>
-  </enumValues>
 </mdclass:Enum>
