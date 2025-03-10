@@ -29,7 +29,7 @@
   <dataLockControlMode>Managed</dataLockControlMode>
   <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
   <modalityUseMode>DontUse</modalityUseMode>
-  <compatibilityMode>8.3.26</compatibilityMode>
+  <compatibilityMode>8.3.24</compatibilityMode>
   <languages uuid="e3e4887f-7c9c-4ca2-bbd9-40ea812edcd2">
     <name>Русский</name>
     <synonym>
@@ -38,7 +38,9 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <subsystems>Subsystem.Подсистема</subsystems>
   <commonForms>CommonForm.ФормаГлавнойСтраницы</commonForms>
   <catalogs>Catalog.ЭтапыПроекта</catalogs>
+  <documents>Document.ДокументТЗ</documents>
   <enums>Enum.ТипЭтапа</enums>
 </mdclass:Configuration>
