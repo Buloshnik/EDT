@@ -86,12 +86,6 @@
 			<c>
 				<c>
 					<f>5</f>
-					<tl>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Дата</v8:content>
-						</v8:item>
-					</tl>
 				</c>
 			</c>
 		</row>
@@ -113,13 +107,7 @@
 			</c>
 			<c>
 				<c>
-					<f>5</f>
-					<tl>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>НазваниеПроекта</v8:content>
-						</v8:item>
-					</tl>
+					<f>6</f>
 				</c>
 			</c>
 		</row>
@@ -147,19 +135,13 @@
 			</c>
 			<c>
 				<c>
-					<f>6</f>
-					<tl>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>ОписаниеПодзадачи</v8:content>
-						</v8:item>
-					</tl>
+					<f>7</f>
 				</c>
 			</c>
 		</row>
 	</rowsItem>
 	<templateMode>true</templateMode>
-	<defaultFormatIndex>7</defaultFormatIndex>
+	<defaultFormatIndex>8</defaultFormatIndex>
 	<height>9</height>
 	<vgRows>9</vgRows>
 	<namedItem xsi:type="NamedItemCells">
@@ -228,9 +210,39 @@
 	<format>
 		<backColor>#FFFF99</backColor>
 		<fillType>Text</fillType>
+		<protection>false</protection>
+		<containsValue>true</containsValue>
+		<valueType>
+			<v8:Type>xs:dateTime</v8:Type>
+			<v8:DateQualifiers>
+				<v8:DateFractions>Date</v8:DateFractions>
+			</v8:DateQualifiers>
+		</valueType>
 	</format>
 	<format>
 		<backColor>#FFFF99</backColor>
+		<fillType>Text</fillType>
+		<protection>false</protection>
+		<containsValue>true</containsValue>
+		<valueType>
+			<v8:Type>xs:string</v8:Type>
+			<v8:StringQualifiers>
+				<v8:Length>0</v8:Length>
+				<v8:AllowedLength>Variable</v8:AllowedLength>
+			</v8:StringQualifiers>
+		</valueType>
+	</format>
+	<format>
+		<backColor>#FFFF99</backColor>
+		<protection>false</protection>
+		<containsValue>true</containsValue>
+		<valueType>
+			<v8:Type>xs:string</v8:Type>
+			<v8:StringQualifiers>
+				<v8:Length>0</v8:Length>
+				<v8:AllowedLength>Variable</v8:AllowedLength>
+			</v8:StringQualifiers>
+		</valueType>
 	</format>
 	<format>
 		<width>72</width>
