@@ -39,6 +39,7 @@
     <languageCode>ru</languageCode>
   </languages>
   <subsystems>Subsystem.Подсистема</subsystems>
+  <constants>Constant.ИмяБазы</constants>
   <commonForms>CommonForm.ФормаГлавнойСтраницы</commonForms>
   <catalogs>Catalog.ЭтапыПроекта</catalogs>
   <documents>Document.ДокументТЗ</documents>
