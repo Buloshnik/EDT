@@ -12,19 +12,19 @@
 	<columns>
 		<size>3</size>
 		<columnsItem>
-			<index>1</index>
+			<index>0</index>
 			<column>
 				<formatIndex>1</formatIndex>
 			</column>
 		</columnsItem>
 		<columnsItem>
-			<index>2</index>
+			<index>1</index>
 			<column>
 				<formatIndex>2</formatIndex>
 			</column>
 		</columnsItem>
 		<columnsItem>
-			<index>0</index>
+			<index>2</index>
 			<column>
 				<formatIndex>3</formatIndex>
 			</column>
@@ -322,13 +322,13 @@
 	</line>
 	<font faceName="Arial" height="10" bold="true" italic="false" underline="false" strikeout="false" kind="Absolute" scale="100"/>
 	<format>
+		<width>31</width>
+	</format>
+	<format>
 		<width>197</width>
 	</format>
 	<format>
 		<width>211</width>
-	</format>
-	<format>
-		<width>31</width>
 	</format>
 	<format>
 		<font>0</font>

@@ -1653,6 +1653,7 @@
   <functionalOptionsParameters>FunctionalOptionsParameter.ДополнительныеОтчетыИОбработкиТипФормы</functionalOptionsParameters>
   <functionalOptionsParameters>FunctionalOptionsParameter.ОбщиеНастройкиУзлов</functionalOptionsParameters>
   <functionalOptionsParameters>FunctionalOptionsParameter.ТипВерсионируемогоОбъекта</functionalOptionsParameters>
+  <definedTypes>DefinedType.Инн</definedTypes>
   <definedTypes>DefinedType.АдресатЗапретаИзменения</definedTypes>
   <definedTypes>DefinedType.БезопасныйРежим</definedTypes>
   <definedTypes>DefinedType.БизнесПроцесс</definedTypes>
@@ -2126,6 +2127,8 @@
   <catalogs>Catalog.ЯзыкиПечатныхФорм</catalogs>
   <catalogs>Catalog.ЭтапыПроекта</catalogs>
   <catalogs>Catalog.ЭтапыПроектаПрисоединенныеФайлы</catalogs>
+  <catalogs>Catalog.Организация</catalogs>
+  <catalogs>Catalog.ФизическиеЛица</catalogs>
   <documents>Document.АктОбУничтоженииПерсональныхДанных</documents>
   <documents>Document.Анкета</documents>
   <documents>Document.Встреча</documents>
