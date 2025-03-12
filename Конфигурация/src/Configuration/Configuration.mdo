@@ -1947,7 +1947,6 @@
   <constants>Constant.ЭтоАвтономноеРабочееМесто</constants>
   <constants>Constant.УдалитьЛогинДоступаКСервисуMorpher</constants>
   <constants>Constant.УдалитьНастройкиВходаПользователей</constants>
-  <constants>Constant.ИмяБазы</constants>
   <commonForms>CommonForm.АвтономнаяРабота</commonForms>
   <commonForms>CommonForm.АвтономнаяРаботаВМоделиСервиса</commonForms>
   <commonForms>CommonForm.АдреснаяКнига</commonForms>
