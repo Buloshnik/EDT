@@ -10,7 +10,6 @@
   </synonym>
   <type>
     <types>CatalogObject.СообщениеSMSПрисоединенныеФайлы</types>
-    <types>CatalogObject.ЭтапыПроектаПрисоединенныеФайлы</types>
     <types>CatalogObject.ВерсииФайлов</types>
     <types>CatalogObject.ВстречаПрисоединенныеФайлы</types>
     <types>CatalogObject.ТелефонныйЗвонокПрисоединенныеФайлы</types>

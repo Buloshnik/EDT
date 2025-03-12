@@ -9,7 +9,6 @@
     <value>Присоединенный файл</value>
   </synonym>
   <type>
-    <types>CatalogRef.ЭтапыПроектаПрисоединенныеФайлы</types>
     <types>CatalogRef.ЭлектронноеПисьмоИсходящееПрисоединенныеФайлы</types>
     <types>CatalogRef.МашиночитаемыеДоверенностиПрисоединенныеФайлы</types>
     <types>CatalogRef.ЭлектронноеПисьмоВходящееПрисоединенныеФайлы</types>

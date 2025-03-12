@@ -16,6 +16,9 @@
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
+  <defaultRoles>Role.АдминистраторСистемы</defaultRoles>
+  <defaultRoles>Role.ПолныеПрава</defaultRoles>
+  <version>3.1.10.467</version>
   <usedMobileApplicationFunctionalities>
     <functionality>
       <use>true</use>

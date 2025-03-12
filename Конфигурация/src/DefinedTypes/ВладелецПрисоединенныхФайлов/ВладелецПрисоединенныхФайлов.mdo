@@ -19,7 +19,6 @@
     <types>CatalogRef.МашиночитаемыеДоверенности</types>
     <types>CatalogRef.ШаблоныСообщений</types>
     <types>DocumentRef.СообщениеSMS</types>
-    <types>CatalogObject.ЭтапыПроекта</types>
     <types>CatalogRef.ИдентификаторыОбъектовМетаданных</types>
   </type>
 </mdclass:DefinedType>
