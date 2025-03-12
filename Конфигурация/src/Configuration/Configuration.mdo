@@ -39,8 +39,11 @@
     <languageCode>ru</languageCode>
   </languages>
   <subsystems>Subsystem.Подсистема</subsystems>
+  <definedTypes>DefinedType.Инн</definedTypes>
   <commonForms>CommonForm.ФормаГлавнойСтраницы</commonForms>
   <catalogs>Catalog.ЭтапыПроекта</catalogs>
+  <catalogs>Catalog.Организация</catalogs>
+  <catalogs>Catalog.ФизическиеЛица</catalogs>
   <documents>Document.ДокументТЗ</documents>
   <enums>Enum.ТипЭтапа</enums>
 </mdclass:Configuration>
