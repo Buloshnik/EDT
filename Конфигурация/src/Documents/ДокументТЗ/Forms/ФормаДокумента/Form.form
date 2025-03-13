@@ -524,6 +524,24 @@
       <common>true</common>
     </edit>
   </attributes>
+  <attributes>
+    <name>ПунктСписка</name>
+    <title>
+      <key>ru</key>
+      <value>Пункт списка</value>
+    </title>
+    <id>4</id>
+    <valueType>
+      <types>String</types>
+      <stringQualifiers/>
+    </valueType>
+    <view>
+      <common>true</common>
+    </view>
+    <edit>
+      <common>true</common>
+    </edit>
+  </attributes>
   <formCommands>
     <name>ДобавитьПодзадачу</name>
     <title>
