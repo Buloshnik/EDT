@@ -14,38 +14,6 @@
   <dataHistory>Use</dataHistory>
   <fillValue xsi:type="core:UndefinedValue"/>
   <content>
-    <metadata>Catalog.НаборыДополнительныхРеквизитовИСведений</metadata>
-    <use>Use</use>
-  </content>
-  <content>
-    <metadata>Catalog.ШаблоныСообщений</metadata>
-    <use>Use</use>
-  </content>
-  <content>
-    <metadata>Catalog.РолиИсполнителей</metadata>
-    <use>Use</use>
-  </content>
-  <content>
-    <metadata>Catalog.УчетныеЗаписиЭлектроннойПочты</metadata>
-    <use>Use</use>
-  </content>
-  <content>
-    <metadata>Catalog.ВидыКонтактнойИнформации</metadata>
-    <use>Use</use>
-  </content>
-  <content>
-    <metadata>Catalog.СтраныМира</metadata>
-    <use>Use</use>
-  </content>
-  <content>
-    <metadata>Catalog.СостоянияОригиналовПервичныхДокументов</metadata>
-    <use>Use</use>
-  </content>
-  <content>
-    <metadata>Catalog.РассылкиОтчетов</metadata>
-    <use>Use</use>
-  </content>
-  <content>
     <metadata>Catalog.ПапкиФайлов</metadata>
     <use>Use</use>
   </content>
@@ -54,19 +22,7 @@
     <use>Use</use>
   </content>
   <content>
-    <metadata>ChartOfCharacteristicTypes.ОбъектыАдресацииЗадач</metadata>
-    <use>Use</use>
-  </content>
-  <content>
     <metadata>Catalog.ГруппыВнешнихПользователей</metadata>
-    <use>Use</use>
-  </content>
-  <content>
-    <metadata>Catalog.ГруппыДоступа</metadata>
-    <use>Use</use>
-  </content>
-  <content>
-    <metadata>Catalog.ПрофилиГруппДоступа</metadata>
     <use>Use</use>
   </content>
   <autoUse>DontUse</autoUse>

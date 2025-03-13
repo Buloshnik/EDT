@@ -372,11 +372,11 @@
     <navigationPanel/>
     <commandBar>
       <cmiFragmentRecord>
-        <command>CommonCommand.НастроитьПрава</command>
+        <command>0</command>
         <userVisible/>
       </cmiFragmentRecord>
       <cmiFragmentRecord>
-        <command>CommonCommand.ДополнительныеСведенияКоманднаяПанель</command>
+        <command>0</command>
         <userVisible/>
       </cmiFragmentRecord>
     </commandBar>

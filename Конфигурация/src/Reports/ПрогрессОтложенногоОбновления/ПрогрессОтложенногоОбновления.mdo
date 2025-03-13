@@ -10,11 +10,7 @@
     <value>Прогресс отложенного обновления</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <defaultForm>CommonForm.ФормаОтчета</defaultForm>
   <mainDataCompositionSchema>Report.ПрогрессОтложенногоОбновления.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
-  <defaultSettingsForm>CommonForm.ФормаНастроекОтчета</defaultSettingsForm>
-  <defaultVariantForm>CommonForm.ФормаВариантаОтчета</defaultVariantForm>
-  <variantsStorage>SettingsStorage.ХранилищеВариантовОтчетов</variantsStorage>
   <help>
     <pages>
       <lang>ru</lang>

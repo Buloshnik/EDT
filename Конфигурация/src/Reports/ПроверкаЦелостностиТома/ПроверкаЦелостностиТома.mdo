@@ -11,7 +11,6 @@
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <mainDataCompositionSchema>Report.ПроверкаЦелостностиТома.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
-  <variantsStorage>SettingsStorage.ХранилищеВариантовОтчетов</variantsStorage>
   <help>
     <pages>
       <lang>ru</lang>

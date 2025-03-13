@@ -2076,7 +2076,8 @@
     </title>
     <id>8</id>
     <valueType>
-      <types>CatalogRef.УчетныеЗаписиЭлектроннойПочты</types>
+      <types>String</types>
+      <stringQualifiers/>
     </valueType>
     <view>
       <common>true</common>

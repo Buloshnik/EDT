@@ -888,23 +888,23 @@
   <commandInterface>
     <navigationPanel>
       <cmiFragmentRecord>
-        <command>InformationRegister.НастройкиВерсионированияОбъектов.StandardCommand.OpenByValue.ТипОбъекта</command>
+        <command>0</command>
         <userVisible/>
       </cmiFragmentRecord>
       <cmiFragmentRecord>
-        <command>CommonCommand.МоиЗаметкиПоПредмету</command>
+        <command>0</command>
         <userVisible/>
       </cmiFragmentRecord>
       <cmiFragmentRecord>
-        <command>InformationRegister.НазначениеДополнительныхОбработок.StandardCommand.OpenByValue.ОбъектНазначения</command>
+        <command>0</command>
         <userVisible/>
       </cmiFragmentRecord>
       <cmiFragmentRecord>
-        <command>CommonCommand.РолиИИсполнителиЗадач</command>
+        <command>0</command>
         <userVisible/>
       </cmiFragmentRecord>
       <cmiFragmentRecord>
-        <command>CommonCommand.ИсторияИзменений</command>
+        <command>0</command>
         <userVisible/>
       </cmiFragmentRecord>
     </navigationPanel>
@@ -914,11 +914,11 @@
         <userVisible/>
       </cmiFragmentRecord>
       <cmiFragmentRecord>
-        <command>CommonCommand.СозданиеСвязанныхОбъектов</command>
+        <command>0</command>
         <userVisible/>
       </cmiFragmentRecord>
       <cmiFragmentRecord>
-        <command>CommonCommand.СоздатьЗаметкуПоПредмету</command>
+        <command>0</command>
         <userVisible/>
       </cmiFragmentRecord>
     </commandBar>

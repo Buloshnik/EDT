@@ -8,9 +8,4 @@
   <location>Constant.СтандартныеПодсистемыВАвтономномРежиме</location>
   <privilegedGetMode>true</privilegedGetMode>
   <content>Catalog.Пользователи.Command.ПользователиИнформационнойБазы</content>
-  <content>DataProcessor.НастройкаРезервногоКопированияИБ</content>
-  <content>DataProcessor.РезервноеКопированиеИБ</content>
-  <content>DataProcessor.СдвигГраницыИтогов</content>
-  <content>DataProcessor.УправлениеИтогамиИАгрегатами</content>
-  <content>DataProcessor.УстановкаОбновлений</content>
 </mdclass:FunctionalOption>

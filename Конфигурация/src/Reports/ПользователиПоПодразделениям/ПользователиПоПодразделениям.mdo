@@ -10,11 +10,7 @@
     <value>Пользователи по подразделениям</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <defaultForm>CommonForm.ФормаОтчета</defaultForm>
   <mainDataCompositionSchema>Report.ПользователиПоПодразделениям.Template.Макет</mainDataCompositionSchema>
-  <defaultSettingsForm>CommonForm.ФормаНастроекОтчета</defaultSettingsForm>
-  <defaultVariantForm>CommonForm.ФормаВариантаОтчета</defaultVariantForm>
-  <variantsStorage>SettingsStorage.ХранилищеВариантовОтчетов</variantsStorage>
   <templates uuid="22fc6da4-3891-4f35-9dfe-c6d359c7e09e">
     <name>Макет</name>
     <synonym>

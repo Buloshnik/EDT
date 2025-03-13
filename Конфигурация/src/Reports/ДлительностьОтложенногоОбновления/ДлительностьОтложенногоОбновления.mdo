@@ -10,11 +10,7 @@
     <value>Длительность отложенного обновления</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <defaultForm>CommonForm.ФормаОтчета</defaultForm>
   <mainDataCompositionSchema>Report.ДлительностьОтложенногоОбновления.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
-  <defaultSettingsForm>CommonForm.ФормаНастроекОтчета</defaultSettingsForm>
-  <defaultVariantForm>CommonForm.ФормаВариантаОтчета</defaultVariantForm>
-  <variantsStorage>SettingsStorage.ХранилищеВариантовОтчетов</variantsStorage>
   <templates uuid="2bf9c338-d31e-467e-8281-d1d6a3a6b2e2">
     <name>ОсновнаяСхемаКомпоновкиДанных</name>
     <synonym>

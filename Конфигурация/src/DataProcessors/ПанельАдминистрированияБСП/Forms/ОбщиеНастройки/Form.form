@@ -640,7 +640,7 @@
             </extInfo>
           </extendedTooltip>
           <type>Hyperlink</type>
-          <commandName>CommonForm.ПараметрыПроксиСервера.StandardCommand.Open</commandName>
+          <commandName>0</commandName>
           <representation>Auto</representation>
           <autoMaxWidth>true</autoMaxWidth>
           <autoMaxHeight>true</autoMaxHeight>
@@ -937,7 +937,7 @@
         </extInfo>
       </extendedTooltip>
       <type>Hyperlink</type>
-      <commandName>Catalog.ВидыКонтактнойИнформации.StandardCommand.OpenList</commandName>
+      <commandName>0</commandName>
       <representation>Auto</representation>
       <autoMaxWidth>true</autoMaxWidth>
       <autoMaxHeight>true</autoMaxHeight>
@@ -998,9 +998,6 @@
         <userVisible>
           <common>true</common>
         </userVisible>
-        <dataPath xsi:type="form:DataPath">
-          <segments>НаборКонстант.ИспользоватьДополнительныеРеквизитыИСведения</segments>
-        </dataPath>
         <titleLocation>Right</titleLocation>
         <toolTip>
           <key>ru</key>
@@ -1026,12 +1023,10 @@
           <id>1804</id>
           <autoFill>true</autoFill>
         </contextMenu>
-        <type>CheckBoxField</type>
         <editMode>Enter</editMode>
         <showInHeader>true</showInHeader>
         <headerHorizontalAlign>Left</headerHorizontalAlign>
         <showInFooter>true</showInFooter>
-        <extInfo xsi:type="form:CheckBoxFieldExtInfo"/>
       </items>
       <items xsi:type="form:FormGroup">
         <name>ГруппаДополнительныеСведения</name>
@@ -1641,9 +1636,6 @@
           <userVisible>
             <common>true</common>
           </userVisible>
-          <dataPath xsi:type="form:DataPath">
-            <segments>НаборКонстант.ИспользоватьЭлектронныеПодписи</segments>
-          </dataPath>
           <titleLocation>Right</titleLocation>
           <handlers>
             <event>OnChange</event>
@@ -1664,12 +1656,10 @@
             <id>1956</id>
             <autoFill>true</autoFill>
           </contextMenu>
-          <type>CheckBoxField</type>
           <editMode>Enter</editMode>
           <showInHeader>true</showInHeader>
           <headerHorizontalAlign>Left</headerHorizontalAlign>
           <showInFooter>true</showInFooter>
-          <extInfo xsi:type="form:CheckBoxFieldExtInfo"/>
         </items>
         <items xsi:type="form:FormField">
           <name>ИспользоватьШифрование</name>
@@ -1683,9 +1673,6 @@
           <userVisible>
             <common>true</common>
           </userVisible>
-          <dataPath xsi:type="form:DataPath">
-            <segments>НаборКонстант.ИспользоватьШифрование</segments>
-          </dataPath>
           <titleLocation>Right</titleLocation>
           <handlers>
             <event>OnChange</event>
@@ -1706,12 +1693,10 @@
             <id>1959</id>
             <autoFill>true</autoFill>
           </contextMenu>
-          <type>CheckBoxField</type>
           <editMode>Enter</editMode>
           <showInHeader>true</showInHeader>
           <headerHorizontalAlign>Left</headerHorizontalAlign>
           <showInFooter>true</showInFooter>
-          <extInfo xsi:type="form:CheckBoxFieldExtInfo"/>
         </items>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1775,7 +1760,7 @@
           </extInfo>
         </extendedTooltip>
         <type>Hyperlink</type>
-        <commandName>CommonForm.НастройкиЭлектроннойПодписиИШифрования.StandardCommand.Open</commandName>
+        <commandName>0</commandName>
         <representation>Auto</representation>
         <width>43</width>
         <autoMaxHeight>true</autoMaxHeight>
@@ -1831,7 +1816,7 @@
         </extInfo>
       </extendedTooltip>
       <type>Hyperlink</type>
-      <commandName>CommonForm.РазрешенныеНеаккредитованныеУЦ.StandardCommand.Open</commandName>
+      <commandName>0</commandName>
       <representation>Auto</representation>
       <autoMaxWidth>true</autoMaxWidth>
       <autoMaxHeight>true</autoMaxHeight>
@@ -1958,27 +1943,21 @@
                   <key>ru</key>
                   <value>Базовая подпись (CAdES-BES)</value>
                 </presentation>
-                <value xsi:type="core:ReferenceValue">
-                  <value>Enum.ТипыПодписиКриптографии.EnumValue.БазоваяCAdESBES</value>
-                </value>
+                <value xsi:type="core:ReferenceValue"/>
               </choiceList>
               <choiceList>
                 <presentation>
                   <key>ru</key>
                   <value>Подпись с меткой доверенного времени (CAdES-T)</value>
                 </presentation>
-                <value xsi:type="core:ReferenceValue">
-                  <value>Enum.ТипыПодписиКриптографии.EnumValue.СМеткойДоверенногоВремениCAdEST</value>
-                </value>
+                <value xsi:type="core:ReferenceValue"/>
               </choiceList>
               <choiceList>
                 <presentation>
                   <key>ru</key>
                   <value>Архивная подпись (CAdES-A)</value>
                 </presentation>
-                <value xsi:type="core:ReferenceValue">
-                  <value>Enum.ТипыПодписиКриптографии.EnumValue.АрхивнаяCAdESAv3</value>
-                </value>
+                <value xsi:type="core:ReferenceValue"/>
               </choiceList>
             </extInfo>
           </items>
@@ -2945,9 +2924,6 @@
         <userVisible>
           <common>true</common>
         </userVisible>
-        <dataPath xsi:type="form:DataPath">
-          <segments>НаборКонстант.ИспользоватьСервисDSS</segments>
-        </dataPath>
         <titleLocation>Right</titleLocation>
         <toolTipRepresentation>ShowBottom</toolTipRepresentation>
         <handlers>
@@ -2973,12 +2949,10 @@
           <id>2116</id>
           <autoFill>true</autoFill>
         </contextMenu>
-        <type>CheckBoxField</type>
         <editMode>Enter</editMode>
         <showInHeader>true</showInHeader>
         <headerHorizontalAlign>Left</headerHorizontalAlign>
         <showInFooter>true</showInFooter>
-        <extInfo xsi:type="form:CheckBoxFieldExtInfo"/>
       </items>
       <items xsi:type="form:FormGroup">
         <name>ГруппаОблачнаяПодписьНастройки</name>
@@ -3006,7 +2980,7 @@
             </extInfo>
           </extendedTooltip>
           <type>Hyperlink</type>
-          <commandName>DataProcessor.УправлениеПодключениемDSS.Command.СерверыDSS</commandName>
+          <commandName>0</commandName>
           <representation>Auto</representation>
           <width>43</width>
           <autoMaxWidth>true</autoMaxWidth>
@@ -3039,7 +3013,7 @@
             </extInfo>
           </extendedTooltip>
           <type>Hyperlink</type>
-          <commandName>DataProcessor.УправлениеПодключениемDSS.Command.УчетныеЗаписиDSS</commandName>
+          <commandName>0</commandName>
           <representation>Auto</representation>
           <autoMaxWidth>true</autoMaxWidth>
           <autoMaxHeight>true</autoMaxHeight>
@@ -3828,9 +3802,6 @@
       <segments>НаборКонстант.ИзвлекатьТекстыФайловНаСервере</segments>
     </notDefaultUseAlwaysAttributes>
     <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ИспользоватьПолнотекстовыйПоиск</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
       <segments>НаборКонстант.ИспользоватьРазделениеПоОбластямДанных</segments>
     </notDefaultUseAlwaysAttributes>
     <main>true</main>
@@ -3910,7 +3881,8 @@
     </title>
     <id>4</id>
     <valueType>
-      <types>EnumRef.ТипыПодписиКриптографии</types>
+      <types>String</types>
+      <stringQualifiers/>
     </valueType>
     <view>
       <common>true</common>

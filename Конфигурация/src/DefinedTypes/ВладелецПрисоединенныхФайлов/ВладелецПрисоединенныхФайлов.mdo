@@ -9,16 +9,8 @@
     <value>Владелец присоединенных файлов</value>
   </synonym>
   <type>
-    <types>BusinessProcessRef.Задание</types>
-    <types>DocumentRef.ЭлектронноеПисьмоИсходящее</types>
-    <types>DocumentRef.ЗапланированноеВзаимодействие</types>
     <types>CatalogRef.ПапкиФайлов</types>
-    <types>DocumentRef.ЭлектронноеПисьмоВходящее</types>
-    <types>DocumentRef.ТелефонныйЗвонок</types>
-    <types>DocumentRef.Встреча</types>
-    <types>CatalogRef.МашиночитаемыеДоверенности</types>
-    <types>CatalogRef.ШаблоныСообщений</types>
-    <types>DocumentRef.СообщениеSMS</types>
     <types>CatalogRef.ИдентификаторыОбъектовМетаданных</types>
+    <types>CatalogRef.ЭтапыПроекта</types>
   </type>
 </mdclass:DefinedType>

@@ -410,9 +410,6 @@
           <userVisible>
             <common>true</common>
           </userVisible>
-          <dataPath xsi:type="form:DataPath">
-            <segments>НаборКонстант.РегистрироватьИзмененияПравДоступа</segments>
-          </dataPath>
           <titleLocation>Right</titleLocation>
           <toolTipRepresentation>ShowBottom</toolTipRepresentation>
           <handlers>
@@ -438,12 +435,10 @@
             <id>2273</id>
             <autoFill>true</autoFill>
           </contextMenu>
-          <type>CheckBoxField</type>
           <editMode>Enter</editMode>
           <showInHeader>true</showInHeader>
           <headerHorizontalAlign>Left</headerHorizontalAlign>
           <showInFooter>true</showInFooter>
-          <extInfo xsi:type="form:CheckBoxFieldExtInfo"/>
         </items>
         <items xsi:type="form:Decoration">
           <name>ГруппаКонтрольРаботыПользователейЛеваяКолонкаВертикальныйОтступ</name>
@@ -848,7 +843,7 @@
             </extInfo>
           </extendedTooltip>
           <type>Hyperlink</type>
-          <commandName>Catalog.ГруппыДоступа.StandardCommand.OpenList</commandName>
+          <commandName>0</commandName>
           <representation>Auto</representation>
           <autoMaxWidth>true</autoMaxWidth>
           <autoMaxHeight>true</autoMaxHeight>
@@ -864,9 +859,6 @@
           <userVisible>
             <common>true</common>
           </userVisible>
-          <dataPath xsi:type="form:DataPath">
-            <segments>НаборКонстант.ОграничиватьДоступНаУровнеЗаписей</segments>
-          </dataPath>
           <titleLocation>Right</titleLocation>
           <toolTip>
             <key>ru</key>
@@ -891,12 +883,10 @@
             <id>702</id>
             <autoFill>true</autoFill>
           </contextMenu>
-          <type>CheckBoxField</type>
           <editMode>EnterOnInput</editMode>
           <showInHeader>true</showInHeader>
           <headerHorizontalAlign>Left</headerHorizontalAlign>
           <showInFooter>true</showInFooter>
-          <extInfo xsi:type="form:CheckBoxFieldExtInfo"/>
         </items>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -954,7 +944,7 @@
             </extInfo>
           </extendedTooltip>
           <type>Hyperlink</type>
-          <commandName>Catalog.ПрофилиГруппДоступа.StandardCommand.OpenList</commandName>
+          <commandName>0</commandName>
           <representation>Auto</representation>
           <autoMaxWidth>true</autoMaxWidth>
           <autoMaxHeight>true</autoMaxHeight>
@@ -974,9 +964,6 @@
           <userVisible>
             <common>true</common>
           </userVisible>
-          <dataPath xsi:type="form:DataPath">
-            <segments>НаборКонстант.ОграничиватьДоступНаУровнеЗаписейУниверсально</segments>
-          </dataPath>
           <toolTipRepresentation>Button</toolTipRepresentation>
           <handlers>
             <event>OnChange</event>
@@ -1009,38 +996,10 @@
             <id>2237</id>
             <autoFill>true</autoFill>
           </contextMenu>
-          <type>InputField</type>
           <editMode>Enter</editMode>
           <showInHeader>true</showInHeader>
           <headerHorizontalAlign>Left</headerHorizontalAlign>
           <showInFooter>true</showInFooter>
-          <extInfo xsi:type="form:InputFieldExtInfo">
-            <width>24</width>
-            <autoMaxWidth>true</autoMaxWidth>
-            <autoMaxHeight>true</autoMaxHeight>
-            <horizontalStretch>false</horizontalStretch>
-            <wrap>true</wrap>
-            <listChoiceMode>true</listChoiceMode>
-            <chooseType>true</chooseType>
-            <typeDomainEnabled>true</typeDomainEnabled>
-            <textEdit>true</textEdit>
-            <choiceList>
-              <presentation>
-                <key>ru</key>
-                <value>Стандартный</value>
-              </presentation>
-              <value xsi:type="core:BooleanValue"/>
-            </choiceList>
-            <choiceList>
-              <presentation>
-                <key>ru</key>
-                <value>Производительный</value>
-              </presentation>
-              <value xsi:type="core:BooleanValue">
-                <value>true</value>
-              </value>
-            </choiceList>
-          </extInfo>
         </items>
         <items xsi:type="form:Button">
           <name>ОбновлениеДоступаНаУровнеЗаписей</name>
@@ -1439,9 +1398,6 @@
         <userVisible>
           <common>true</common>
         </userVisible>
-        <dataPath xsi:type="form:DataPath">
-          <segments>НаборКонстант.ИспользоватьДатыЗапретаИзменения</segments>
-        </dataPath>
         <titleLocation>Right</titleLocation>
         <toolTip>
           <key>ru</key>
@@ -1467,12 +1423,10 @@
           <id>2203</id>
           <autoFill>true</autoFill>
         </contextMenu>
-        <type>CheckBoxField</type>
         <editMode>Enter</editMode>
         <showInHeader>true</showInHeader>
         <headerHorizontalAlign>Left</headerHorizontalAlign>
         <showInFooter>true</showInFooter>
-        <extInfo xsi:type="form:CheckBoxFieldExtInfo"/>
       </items>
       <items xsi:type="form:Button">
         <name>НастроитьДатыЗапретаИзменения</name>
@@ -1608,7 +1562,7 @@
             </extInfo>
           </extendedTooltip>
           <type>Hyperlink</type>
-          <commandName>CommonForm.НастройкиРегистрацииСобытийДоступаКПерсональнымДанным.StandardCommand.Open</commandName>
+          <commandName>0</commandName>
           <representation>Auto</representation>
           <autoMaxWidth>true</autoMaxWidth>
           <autoMaxHeight>true</autoMaxHeight>
@@ -1664,9 +1618,6 @@
             <userVisible>
               <common>true</common>
             </userVisible>
-            <dataPath xsi:type="form:DataPath">
-              <segments>НаборКонстант.ИспользоватьСкрытиеПерсональныхДанныхСубъектов</segments>
-            </dataPath>
             <titleLocation>Right</titleLocation>
             <toolTipRepresentation>ShowBottom</toolTipRepresentation>
             <handlers>
@@ -1688,12 +1639,10 @@
               <id>2228</id>
               <autoFill>true</autoFill>
             </contextMenu>
-            <type>CheckBoxField</type>
             <editMode>Enter</editMode>
             <showInHeader>true</showInHeader>
             <headerHorizontalAlign>Left</headerHorizontalAlign>
             <showInFooter>true</showInFooter>
-            <extInfo xsi:type="form:CheckBoxFieldExtInfo"/>
           </items>
           <items xsi:type="form:Decoration">
             <name>ДекорацияОжиданиеИзмененияИспользованияУничтоженияПДн</name>
@@ -1847,7 +1796,7 @@
           </extInfo>
         </extendedTooltip>
         <type>Hyperlink</type>
-        <commandName>DataProcessor.ЗащитаПерсональныхДанных.Command.ЗащитаПерсональныхДанных</commandName>
+        <commandName>0</commandName>
         <representation>Auto</representation>
         <autoMaxWidth>true</autoMaxWidth>
         <autoMaxHeight>true</autoMaxHeight>
@@ -2027,7 +1976,7 @@
             </extInfo>
           </extendedTooltip>
           <type>Hyperlink</type>
-          <commandName>CommonForm.НастройкиРегистрацииСобытийДоступаКДанным.StandardCommand.Open</commandName>
+          <commandName>0</commandName>
           <representation>Auto</representation>
           <autoMaxWidth>true</autoMaxWidth>
           <autoMaxHeight>true</autoMaxHeight>
@@ -2244,25 +2193,10 @@
       <common>true</common>
     </edit>
     <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ДатаУведомленияОНовыхЗадачах</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
       <segments>НаборКонстант.ЗаголовокСистемы</segments>
     </notDefaultUseAlwaysAttributes>
     <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
       <segments>НаборКонстант.ЗапрещатьЗагрузкуФайловПоРасширению</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ИзменятьЗаданияЗаднимЧислом</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ИспользоватьАнкетирование</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ИспользоватьБизнесПроцессыИЗадачи</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ИспользоватьВерсионированиеОбъектов</segments>
     </notDefaultUseAlwaysAttributes>
     <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
       <segments>НаборКонстант.ИспользоватьВнешнихПользователей</segments>
@@ -2271,55 +2205,7 @@
       <segments>НаборКонстант.ИспользоватьГруппыПользователей</segments>
     </notDefaultUseAlwaysAttributes>
     <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ИспользоватьДатуИВремяВСрокахЗадач</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ИспользоватьДатуНачалаЗадач</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ИспользоватьДополнительныеРеквизитыИСведения</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ИспользоватьЗаметки</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ИспользоватьНапоминанияПользователя</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ИспользоватьПочтовыйКлиент</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ИспользоватьПризнакРассмотрено</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ИспользоватьПрочиеВзаимодействия</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ИспользоватьСинхронизациюДанных</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ИспользоватьЭлектронныеПодписи</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.КаталогСообщенийОбменаДаннымиДляLinux</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.КаталогСообщенийОбменаДаннымиДляWindows</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
       <segments>НаборКонстант.МаксимальныйРазмерФайлаОбластиДанных</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ОграничиватьДоступНаУровнеЗаписей</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ОграничиватьДоступНаУровнеЗаписейУниверсально</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ОтправлятьПисьмаВФорматеHTML</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ПрефиксУзлаРаспределеннойИнформационнойБазы</segments>
     </notDefaultUseAlwaysAttributes>
     <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
       <segments>НаборКонстант.СписокЗапрещенныхРасширенийОбластиДанных</segments>

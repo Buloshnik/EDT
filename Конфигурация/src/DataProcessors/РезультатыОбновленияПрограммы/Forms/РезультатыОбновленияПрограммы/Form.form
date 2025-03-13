@@ -1274,9 +1274,6 @@
             <autoMaxWidth>true</autoMaxWidth>
             <autoMaxHeight>true</autoMaxHeight>
             <extInfo xsi:type="form:PictureDecorationExtInfo">
-              <picture xsi:type="core:PictureRef">
-                <picture>CommonPicture.ОжидаемаяДлительнаяОперация48</picture>
-              </picture>
               <fileDragMode>AsFileRef</fileDragMode>
             </extInfo>
           </items>
@@ -1762,9 +1759,6 @@
                     <autoMaxHeight>true</autoMaxHeight>
                     <extInfo xsi:type="form:LabelDecorationExtInfo">
                       <horizontalAlign>Left</horizontalAlign>
-                      <backColor xsi:type="core:ColorRef">
-                        <color>Style.ЦветФонаВнимание</color>
-                      </backColor>
                     </extInfo>
                   </items>
                   <visible>true</visible>

@@ -7,16 +7,8 @@
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
-  <content>Report.АнализПравДоступа</content>
-  <content>Report.ИзменениеУчастниковГруппПользователей</content>
-  <content>Report.ИзменениеУчетныхЗаписей</content>
   <content>Report.ПользователиПоПодразделениям</content>
-  <content>Report.ПраваРолей</content>
   <content>Report.СведенияОПользователях</content>
-  <content>Report.УчастникиГруппДоступа</content>
   <content>Report.УчастникиГруппПользователей</content>
-  <content>Report.ИзменениеУчастниковГруппДоступа</content>
-  <content>Report.ИзменениеРазрешенныхЗначенийГруппДоступа</content>
-  <content>Report.ИзменениеРолейПрофилей</content>
   <parentSubsystem>Subsystem.Администрирование</parentSubsystem>
 </mdclass:Subsystem>

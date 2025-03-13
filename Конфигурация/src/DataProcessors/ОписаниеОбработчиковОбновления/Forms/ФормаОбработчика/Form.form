@@ -2171,9 +2171,6 @@
             <rowPictureDataPath xsi:type="form:DataPath">
               <segments>Объект.ЧитаемыеОбъекты.ИндексКартинки</segments>
             </rowPictureDataPath>
-            <rowsPicture xsi:type="core:PictureRef">
-              <picture>CommonPicture.КоллекцияОбъектыМетаданных</picture>
-            </rowsPicture>
             <rowFilter xsi:type="core:UndefinedValue"/>
           </items>
           <items xsi:type="form:FormGroup">
@@ -2821,9 +2818,6 @@
             <rowPictureDataPath xsi:type="form:DataPath">
               <segments>Объект.ИзменяемыеОбъекты.ИндексКартинки</segments>
             </rowPictureDataPath>
-            <rowsPicture xsi:type="core:PictureRef">
-              <picture>CommonPicture.КоллекцияОбъектыМетаданных</picture>
-            </rowsPicture>
             <rowFilter xsi:type="core:UndefinedValue"/>
           </items>
           <visible>true</visible>
@@ -3219,9 +3213,6 @@
         <rowPictureDataPath xsi:type="form:DataPath">
           <segments>Объект.БлокируемыеОбъекты.ИндексКартинки</segments>
         </rowPictureDataPath>
-        <rowsPicture xsi:type="core:PictureRef">
-          <picture>CommonPicture.КоллекцияОбъектыМетаданных</picture>
-        </rowsPicture>
         <rowFilter xsi:type="core:UndefinedValue"/>
       </items>
       <visible>true</visible>

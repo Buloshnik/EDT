@@ -10,11 +10,7 @@
     <value>Участники групп пользователей</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <defaultForm>CommonForm.ФормаОтчета</defaultForm>
   <mainDataCompositionSchema>Report.УчастникиГруппПользователей.Template.Макет</mainDataCompositionSchema>
-  <defaultSettingsForm>CommonForm.ФормаНастроекОтчета</defaultSettingsForm>
-  <defaultVariantForm>CommonForm.ФормаВариантаОтчета</defaultVariantForm>
-  <variantsStorage>SettingsStorage.ХранилищеВариантовОтчетов</variantsStorage>
   <templates uuid="bc79b15c-5bde-4587-a1ed-b5c4909eec5d">
     <name>Макет</name>
     <synonym>

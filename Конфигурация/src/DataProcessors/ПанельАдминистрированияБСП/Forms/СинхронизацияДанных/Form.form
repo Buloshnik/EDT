@@ -135,9 +135,6 @@
         <userVisible>
           <common>true</common>
         </userVisible>
-        <dataPath xsi:type="form:DataPath">
-          <segments>НаборКонстант.ИспользоватьСинхронизациюДанных</segments>
-        </dataPath>
         <titleLocation>Right</titleLocation>
         <toolTipRepresentation>ShowBottom</toolTipRepresentation>
         <handlers>
@@ -314,9 +311,6 @@
         <userVisible>
           <common>true</common>
         </userVisible>
-        <dataPath xsi:type="form:DataPath">
-          <segments>НаборКонстант.ИспользоватьДатыЗапретаЗагрузки</segments>
-        </dataPath>
         <titleLocation>Right</titleLocation>
         <toolTipRepresentation>None</toolTipRepresentation>
         <handlers>
@@ -342,12 +336,10 @@
           <id>2056</id>
           <autoFill>true</autoFill>
         </contextMenu>
-        <type>CheckBoxField</type>
         <editMode>Enter</editMode>
         <showInHeader>true</showInHeader>
         <headerHorizontalAlign>Left</headerHorizontalAlign>
         <showInFooter>true</showInFooter>
-        <extInfo xsi:type="form:CheckBoxFieldExtInfo"/>
       </items>
       <items xsi:type="form:Button">
         <name>НастроитьДатыЗапретаЗагрузки</name>
@@ -506,7 +498,7 @@
           </extInfo>
         </extendedTooltip>
         <type>Hyperlink</type>
-        <commandName>CommonCommand.ПредупрежденияПриСинхронизацииДанных</commandName>
+        <commandName>0</commandName>
         <representation>Auto</representation>
         <autoMaxWidth>true</autoMaxWidth>
         <autoMaxHeight>true</autoMaxHeight>
@@ -609,7 +601,7 @@
           </extInfo>
         </extendedTooltip>
         <type>Hyperlink</type>
-        <commandName>DataProcessor.ВыгрузкаЗагрузкаEnterpriseData.Command.ЗагрузкаДанныхEnterpriseData</commandName>
+        <commandName>0</commandName>
         <representation>Auto</representation>
         <autoMaxWidth>true</autoMaxWidth>
         <autoMaxHeight>true</autoMaxHeight>
@@ -632,9 +624,6 @@
           <userVisible>
             <common>true</common>
           </userVisible>
-          <dataPath xsi:type="form:DataPath">
-            <segments>НаборКонстант.ИспользоватьОценкуПроизводительностиСинхронизацииДанных</segments>
-          </dataPath>
           <titleLocation>Right</titleLocation>
           <toolTipRepresentation>ShowBottom</toolTipRepresentation>
           <handlers>
@@ -686,7 +675,7 @@
             </extInfo>
           </extendedTooltip>
           <type>Hyperlink</type>
-          <commandName>Catalog.СеансыОбменовДанными.Command.СеансыОбменовДанными</commandName>
+          <commandName>0</commandName>
           <representation>Auto</representation>
           <autoMaxWidth>true</autoMaxWidth>
           <autoMaxHeight>true</autoMaxHeight>
@@ -802,9 +791,6 @@
       <userVisible>
         <common>true</common>
       </userVisible>
-      <dataPath xsi:type="form:DataPath">
-        <segments>НаборКонстант.ПрефиксУзлаРаспределеннойИнформационнойБазы</segments>
-      </dataPath>
       <extendedTooltip>
         <name>ПрефиксУзлаРаспределеннойИнформационнойБазыРасширеннаяПодсказка</name>
         <id>2035</id>
@@ -819,21 +805,11 @@
         <id>1996</id>
         <autoFill>true</autoFill>
       </contextMenu>
-      <type>InputField</type>
       <readOnly>true</readOnly>
       <editMode>Enter</editMode>
       <showInHeader>true</showInHeader>
       <headerHorizontalAlign>Left</headerHorizontalAlign>
       <showInFooter>true</showInFooter>
-      <extInfo xsi:type="form:InputFieldExtInfo">
-        <autoMaxWidth>true</autoMaxWidth>
-        <autoMaxHeight>true</autoMaxHeight>
-        <wrap>true</wrap>
-        <chooseType>true</chooseType>
-        <typeDomainEnabled>true</typeDomainEnabled>
-        <textEdit>true</textEdit>
-        <editTextUpdate>OnValueChange</editTextUpdate>
-      </extInfo>
     </items>
     <items xsi:type="form:Button">
       <name>ИзменитьПрефиксИБ</name>
@@ -910,9 +886,6 @@
       <userVisible>
         <common>true</common>
       </userVisible>
-      <dataPath xsi:type="form:DataPath">
-        <segments>НаборКонстант.КаталогСообщенийОбменаДаннымиДляWindows</segments>
-      </dataPath>
       <handlers>
         <event>OnChange</event>
         <name>КаталогСообщенийОбменаДаннымиДляWindowsПриИзменении</name>
@@ -932,19 +905,10 @@
         <id>2043</id>
         <autoFill>true</autoFill>
       </contextMenu>
-      <type>InputField</type>
       <editMode>Enter</editMode>
       <showInHeader>true</showInHeader>
       <headerHorizontalAlign>Left</headerHorizontalAlign>
       <showInFooter>true</showInFooter>
-      <extInfo xsi:type="form:InputFieldExtInfo">
-        <autoMaxWidth>true</autoMaxWidth>
-        <autoMaxHeight>true</autoMaxHeight>
-        <wrap>true</wrap>
-        <chooseType>true</chooseType>
-        <typeDomainEnabled>true</typeDomainEnabled>
-        <textEdit>true</textEdit>
-      </extInfo>
     </items>
     <items xsi:type="form:FormField">
       <name>КаталогСообщенийОбменаДаннымиДляLinux</name>
@@ -958,9 +922,6 @@
       <userVisible>
         <common>true</common>
       </userVisible>
-      <dataPath xsi:type="form:DataPath">
-        <segments>НаборКонстант.КаталогСообщенийОбменаДаннымиДляLinux</segments>
-      </dataPath>
       <handlers>
         <event>OnChange</event>
         <name>КаталогСообщенийОбменаДаннымиДляLinuxПриИзменении</name>
@@ -980,19 +941,10 @@
         <id>2046</id>
         <autoFill>true</autoFill>
       </contextMenu>
-      <type>InputField</type>
       <editMode>Enter</editMode>
       <showInHeader>true</showInHeader>
       <headerHorizontalAlign>Left</headerHorizontalAlign>
       <showInFooter>true</showInFooter>
-      <extInfo xsi:type="form:InputFieldExtInfo">
-        <autoMaxWidth>true</autoMaxWidth>
-        <autoMaxHeight>true</autoMaxHeight>
-        <wrap>true</wrap>
-        <chooseType>true</chooseType>
-        <typeDomainEnabled>true</typeDomainEnabled>
-        <textEdit>true</textEdit>
-      </extInfo>
     </items>
     <visible>true</visible>
     <enabled>true</enabled>
@@ -1054,7 +1006,7 @@
         </extInfo>
       </extendedTooltip>
       <type>Hyperlink</type>
-      <commandName>DataProcessor.НастройкаСтандартногоИнтерфейсаOData.Command.НастройкиСтандартногоИнтерфейсаOData</commandName>
+      <commandName>0</commandName>
       <representation>Auto</representation>
       <autoMaxWidth>true</autoMaxWidth>
       <autoMaxHeight>true</autoMaxHeight>
@@ -1140,22 +1092,10 @@
       <common>true</common>
     </edit>
     <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ДатаУведомленияОНовыхЗадачах</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
       <segments>НаборКонстант.ЗаголовокСистемы</segments>
     </notDefaultUseAlwaysAttributes>
     <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
       <segments>НаборКонстант.ЗапрещатьЗагрузкуФайловПоРасширению</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ИзменятьЗаданияЗаднимЧислом</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ИспользоватьБизнесПроцессыИЗадачи</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ИспользоватьВерсионированиеОбъектов</segments>
     </notDefaultUseAlwaysAttributes>
     <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
       <segments>НаборКонстант.ИспользоватьВнешнихПользователей</segments>
@@ -1164,55 +1104,7 @@
       <segments>НаборКонстант.ИспользоватьГруппыПользователей</segments>
     </notDefaultUseAlwaysAttributes>
     <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ИспользоватьДатуИВремяВСрокахЗадач</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ИспользоватьДатуНачалаЗадач</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ИспользоватьДополнительныеРеквизитыИСведения</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ИспользоватьЗаметки</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ИспользоватьНапоминанияПользователя</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ИспользоватьОценкуПроизводительностиСинхронизацииДанных</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ИспользоватьПочтовыйКлиент</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ИспользоватьПризнакРассмотрено</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ИспользоватьПрочиеВзаимодействия</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ИспользоватьСинхронизациюДанных</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ИспользоватьЭлектронныеПодписи</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.КаталогСообщенийОбменаДаннымиДляLinux</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.КаталогСообщенийОбменаДаннымиДляWindows</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
       <segments>НаборКонстант.МаксимальныйРазмерФайлаОбластиДанных</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ОграничиватьДоступНаУровнеЗаписей</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ОтправлятьПисьмаВФорматеHTML</segments>
-    </notDefaultUseAlwaysAttributes>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>НаборКонстант.ПрефиксУзлаРаспределеннойИнформационнойБазы</segments>
     </notDefaultUseAlwaysAttributes>
     <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
       <segments>НаборКонстант.СписокЗапрещенныхРасширенийОбластиДанных</segments>

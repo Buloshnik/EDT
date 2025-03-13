@@ -17,7 +17,6 @@
   <useStandardCommands>true</useStandardCommands>
   <editType>InDialog</editType>
   <defaultRecordForm>InformationRegister.ОтправленныеСерверныеОповещения.Form.ФормаЗаписи</defaultRecordForm>
-  <defaultListForm>InformationRegister.ОтправленныеСерверныеОповещения.Form.ФормаСписка</defaultListForm>
   <standardAttributes>
     <dataHistory>Use</dataHistory>
     <name>Active</name>
@@ -250,15 +249,6 @@
     <fillValue xsi:type="core:UndefinedValue"/>
     <mainFilter>true</mainFilter>
   </dimensions>
-  <forms uuid="93b18f0a-7aa1-42db-809b-1e543cda57de">
-    <name>ФормаСписка</name>
-    <synonym>
-      <key>ru</key>
-      <value>Форма списка</value>
-    </synonym>
-    <usePurposes>PersonalComputer</usePurposes>
-    <usePurposes>MobileDevice</usePurposes>
-  </forms>
   <forms uuid="a8e04267-5a28-40af-8d45-e65375cd8273">
     <name>ФормаЗаписи</name>
     <synonym>

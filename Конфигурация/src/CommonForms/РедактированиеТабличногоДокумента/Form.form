@@ -2563,9 +2563,6 @@
             <autoMaxWidth>true</autoMaxWidth>
             <autoMaxHeight>true</autoMaxHeight>
             <placementArea>UserCmds</placementArea>
-            <picture xsi:type="core:PictureRef">
-              <picture>CommonPicture.ВставитьГруппировкуВыше</picture>
-            </picture>
             <representationInContextMenu>Auto</representationInContextMenu>
             <locationInCommandBar>InCommandBarAndInAdditionalSubmenu</locationInCommandBar>
           </items>
@@ -2592,9 +2589,6 @@
             <autoMaxWidth>true</autoMaxWidth>
             <autoMaxHeight>true</autoMaxHeight>
             <placementArea>UserCmds</placementArea>
-            <picture xsi:type="core:PictureRef">
-              <picture>CommonPicture.ВставитьГруппировкуНиже</picture>
-            </picture>
             <representationInContextMenu>Auto</representationInContextMenu>
             <locationInCommandBar>InCommandBarAndInAdditionalSubmenu</locationInCommandBar>
           </items>
@@ -2671,9 +2665,6 @@
             <autoMaxWidth>true</autoMaxWidth>
             <autoMaxHeight>true</autoMaxHeight>
             <placementArea>UserCmds</placementArea>
-            <picture xsi:type="core:PictureRef">
-              <picture>CommonPicture.ВставитьКолонкуСлева</picture>
-            </picture>
             <representationInContextMenu>Auto</representationInContextMenu>
             <locationInCommandBar>InCommandBarAndInAdditionalSubmenu</locationInCommandBar>
           </items>
@@ -2700,9 +2691,6 @@
             <autoMaxWidth>true</autoMaxWidth>
             <autoMaxHeight>true</autoMaxHeight>
             <placementArea>UserCmds</placementArea>
-            <picture xsi:type="core:PictureRef">
-              <picture>CommonPicture.ВставитьКолонкуСправа</picture>
-            </picture>
             <representationInContextMenu>Auto</representationInContextMenu>
             <locationInCommandBar>InCommandBarAndInAdditionalSubmenu</locationInCommandBar>
           </items>
@@ -2934,9 +2922,6 @@
             <autoMaxWidth>true</autoMaxWidth>
             <autoMaxHeight>true</autoMaxHeight>
             <placementArea>UserCmds</placementArea>
-            <picture xsi:type="core:PictureRef">
-              <picture>CommonPicture.ВысотаСтроки</picture>
-            </picture>
             <representationInContextMenu>Auto</representationInContextMenu>
             <locationInCommandBar>InCommandBarAndInAdditionalSubmenu</locationInCommandBar>
           </items>
@@ -2963,9 +2948,6 @@
             <autoMaxWidth>true</autoMaxWidth>
             <autoMaxHeight>true</autoMaxHeight>
             <placementArea>UserCmds</placementArea>
-            <picture xsi:type="core:PictureRef">
-              <picture>CommonPicture.ШиринаКолонки</picture>
-            </picture>
             <representationInContextMenu>Auto</representationInContextMenu>
             <locationInCommandBar>InCommandBarAndInAdditionalSubmenu</locationInCommandBar>
           </items>
@@ -3760,9 +3742,6 @@
           <autoMaxWidth>true</autoMaxWidth>
           <autoMaxHeight>true</autoMaxHeight>
           <placementArea>UserCmds</placementArea>
-          <picture xsi:type="core:PictureRef">
-            <picture>CommonPicture.РежимИспользованияПриложенияВСервисеЛокально</picture>
-          </picture>
           <representationInContextMenu>Auto</representationInContextMenu>
           <locationInCommandBar>InAdditionalSubmenu</locationInCommandBar>
         </items>
@@ -5655,7 +5634,8 @@
     <name>Язык</name>
     <id>1</id>
     <valueType>
-      <types>CatalogRef.ЯзыкиПечатныхФорм</types>
+      <types>String</types>
+      <stringQualifiers/>
     </valueType>
     <view>
       <common>true</common>
@@ -6416,9 +6396,6 @@
     <use>
       <common>true</common>
     </use>
-    <picture xsi:type="core:PictureRef">
-      <picture>CommonPicture.ПовторятьВНачалеСтраницы</picture>
-    </picture>
     <action xsi:type="form:FormCommandHandlerContainer">
       <handler>
         <name>ПовторятьНаКаждойСтранице</name>
@@ -6511,9 +6488,6 @@
     <use>
       <common>true</common>
     </use>
-    <picture xsi:type="core:PictureRef">
-      <picture>CommonPicture.ПовторятьВКонцеСтраницы</picture>
-    </picture>
     <action xsi:type="form:FormCommandHandlerContainer">
       <handler>
         <name>ПовторятьВКонцеСтраницы</name>
@@ -6537,9 +6511,6 @@
     <use>
       <common>true</common>
     </use>
-    <picture xsi:type="core:PictureRef">
-      <picture>CommonPicture.ВертикальноеПоложениеВерх</picture>
-    </picture>
     <action xsi:type="form:FormCommandHandlerContainer">
       <handler>
         <name>ВыровнятьПоВерхнемуКраю</name>
@@ -6563,9 +6534,6 @@
     <use>
       <common>true</common>
     </use>
-    <picture xsi:type="core:PictureRef">
-      <picture>CommonPicture.ВертикальноеПоложениеЦентр</picture>
-    </picture>
     <action xsi:type="form:FormCommandHandlerContainer">
       <handler>
         <name>ВыровнятьПоСередине</name>
@@ -6589,9 +6557,6 @@
     <use>
       <common>true</common>
     </use>
-    <picture xsi:type="core:PictureRef">
-      <picture>CommonPicture.ВертикальноеПоложениеНиз</picture>
-    </picture>
     <action xsi:type="form:FormCommandHandlerContainer">
       <handler>
         <name>ВыровнятьПоНижнемуКраю</name>

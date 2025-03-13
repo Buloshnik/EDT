@@ -3559,9 +3559,6 @@
       </extendedTooltip>
       <type>Popup</type>
       <extInfo xsi:type="form:PopupGroupExtInfo">
-        <picture xsi:type="core:PictureRef">
-          <picture>CommonPicture.Отчеты</picture>
-        </picture>
         <representation>PictureAndText</representation>
       </extInfo>
     </items>
@@ -4609,7 +4606,8 @@
       <name>Вид</name>
       <id>2</id>
       <valueType>
-        <types>CatalogRef.ВидыКонтактнойИнформации</types>
+        <types>String</types>
+        <stringQualifiers/>
       </valueType>
       <view>
         <common>true</common>
@@ -4622,7 +4620,8 @@
       <name>Тип</name>
       <id>3</id>
       <valueType>
-        <types>EnumRef.ТипыКонтактнойИнформации</types>
+        <types>String</types>
+        <stringQualifiers/>
       </valueType>
       <view>
         <common>true</common>
@@ -4990,9 +4989,6 @@
     <use>
       <common>true</common>
     </use>
-    <picture xsi:type="core:PictureRef">
-      <picture>CommonPicture.КонтактнаяИнформацияОтправитьЭлектронноеПисьмо</picture>
-    </picture>
     <action xsi:type="form:FormCommandHandlerContainer">
       <handler>
         <name>Подключаемый_КонтактнаяИнформацияВыполнитьКоманду</name>
@@ -5015,9 +5011,6 @@
     <use>
       <common>true</common>
     </use>
-    <picture xsi:type="core:PictureRef">
-      <picture>CommonPicture.МенюДополнительныеФункции</picture>
-    </picture>
     <action xsi:type="form:FormCommandHandlerContainer">
       <handler>
         <name>Подключаемый_КонтактнаяИнформацияВыполнитьКоманду</name>

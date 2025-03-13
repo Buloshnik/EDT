@@ -9,15 +9,8 @@
     <value>Присоединенный файл</value>
   </synonym>
   <type>
-    <types>CatalogRef.ЭлектронноеПисьмоИсходящееПрисоединенныеФайлы</types>
-    <types>CatalogRef.МашиночитаемыеДоверенностиПрисоединенныеФайлы</types>
-    <types>CatalogRef.ЭлектронноеПисьмоВходящееПрисоединенныеФайлы</types>
-    <types>CatalogRef.ЗапланированноеВзаимодействиеПрисоединенныеФайлы</types>
+    <types>CatalogRef.ЭтапыПроектаПрисоединенныеФайлы</types>
     <types>CatalogRef.Файлы</types>
-    <types>CatalogRef.СообщениеSMSПрисоединенныеФайлы</types>
-    <types>CatalogRef.ВстречаПрисоединенныеФайлы</types>
     <types>CatalogRef.ВерсииФайлов</types>
-    <types>CatalogRef.ТелефонныйЗвонокПрисоединенныеФайлы</types>
-    <types>CatalogRef.ШаблоныСообщенийПрисоединенныеФайлы</types>
   </type>
 </mdclass:DefinedType>

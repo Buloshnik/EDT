@@ -557,9 +557,6 @@
         </extendedTooltip>
         <type>Popup</type>
         <extInfo xsi:type="form:PopupGroupExtInfo">
-          <picture xsi:type="core:PictureRef">
-            <picture>CommonPicture.Отчеты</picture>
-          </picture>
           <representation>PictureAndText</representation>
         </extInfo>
       </items>
@@ -3447,7 +3444,7 @@
     <navigationPanel/>
     <commandBar>
       <cmiFragmentRecord>
-        <command>CommonCommand.ДополнительныеСведенияКоманднаяПанель</command>
+        <command>0</command>
         <group>FormCommandBarImportant</group>
         <index>0</index>
         <userVisible/>
