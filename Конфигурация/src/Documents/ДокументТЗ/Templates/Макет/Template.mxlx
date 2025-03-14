@@ -20,13 +20,13 @@
 		<columnsItem>
 			<index>1</index>
 			<column>
-				<formatIndex>2</formatIndex>
+				<formatIndex>1</formatIndex>
 			</column>
 		</columnsItem>
 		<columnsItem>
 			<index>2</index>
 			<column>
-				<formatIndex>3</formatIndex>
+				<formatIndex>1</formatIndex>
 			</column>
 		</columnsItem>
 	</columns>
@@ -46,7 +46,7 @@
 			<c>
 				<i>1</i>
 				<c>
-					<f>4</f>
+					<f>2</f>
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
@@ -63,7 +63,7 @@
 			<c>
 				<i>1</i>
 				<c>
-					<f>5</f>
+					<f>3</f>
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
@@ -80,7 +80,7 @@
 			<c>
 				<i>1</i>
 				<c>
-					<f>5</f>
+					<f>3</f>
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
@@ -91,7 +91,7 @@
 			</c>
 			<c>
 				<c>
-					<f>6</f>
+					<f>4</f>
 				</c>
 			</c>
 		</row>
@@ -113,7 +113,7 @@
 			</c>
 			<c>
 				<c>
-					<f>7</f>
+					<f>5</f>
 				</c>
 			</c>
 		</row>
@@ -141,7 +141,7 @@
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>6</f>
 				</c>
 			</c>
 		</row>
@@ -159,7 +159,7 @@
 			<c>
 				<i>1</i>
 				<c>
-					<f>9</f>
+					<f>7</f>
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
@@ -170,7 +170,7 @@
 			</c>
 			<c>
 				<c>
-					<f>9</f>
+					<f>7</f>
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
@@ -187,12 +187,12 @@
 			<c>
 				<i>1</i>
 				<c>
-					<f>9</f>
+					<f>7</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>9</f>
+					<f>7</f>
 				</c>
 			</c>
 		</row>
@@ -203,10 +203,45 @@
 			<c>
 				<i>1</i>
 				<c>
-					<f>10</f>
+					<f>8</f>
 				</c>
 			</c>
 			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>12</index>
+		<indexTo>13</indexTo>
+		<row>
+			<empty>true</empty>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>14</index>
+		<row>
+			<c>
+				<c>
+					<f>9</f>
+					<tl/>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>15</index>
+		<row>
+			<empty>true</empty>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>16</index>
+		<row>
+			<c>
+				<i>1</i>
 				<c>
 					<f>10</f>
 				</c>
@@ -215,8 +250,8 @@
 	</rowsItem>
 	<templateMode>true</templateMode>
 	<defaultFormatIndex>11</defaultFormatIndex>
-	<height>12</height>
-	<vgRows>12</vgRows>
+	<height>18</height>
+	<vgRows>18</vgRows>
 	<merge>
 		<r>9</r>
 		<c>1</c>
@@ -250,11 +285,11 @@
 	<namedItem xsi:type="NamedItemCells">
 		<name>ЗаголовокТаблицы</name>
 		<area>
-			<type>Rows</type>
+			<type>Rectangle</type>
 			<beginRow>9</beginRow>
 			<endRow>10</endRow>
-			<beginColumn>-1</beginColumn>
-			<endColumn>-1</endColumn>
+			<beginColumn>0</beginColumn>
+			<endColumn>2</endColumn>
 		</area>
 	</namedItem>
 	<namedItem xsi:type="NamedItemCells">
@@ -300,35 +335,43 @@
 	<namedItem xsi:type="NamedItemCells">
 		<name>Подзадача</name>
 		<area>
-			<type>Rows</type>
+			<type>Rectangle</type>
 			<beginRow>5</beginRow>
 			<endRow>8</endRow>
-			<beginColumn>-1</beginColumn>
-			<endColumn>-1</endColumn>
+			<beginColumn>0</beginColumn>
+			<endColumn>2</endColumn>
 		</area>
 	</namedItem>
 	<namedItem xsi:type="NamedItemCells">
 		<name>СтрокаТаблицы</name>
 		<area>
-			<type>Rows</type>
+			<type>Rectangle</type>
 			<beginRow>11</beginRow>
 			<endRow>11</endRow>
-			<beginColumn>-1</beginColumn>
-			<endColumn>-1</endColumn>
+			<beginColumn>0</beginColumn>
+			<endColumn>2</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
+		<name>Ячейка</name>
+		<area>
+			<type>Rectangle</type>
+			<beginRow>14</beginRow>
+			<endRow>14</endRow>
+			<beginColumn>0</beginColumn>
+			<endColumn>0</endColumn>
 		</area>
 	</namedItem>
 	<line width="1" gap="false">
 		<v8ui:style xsi:type="v8ui:SpreadsheetDocumentCellLineType">Solid</v8ui:style>
 	</line>
+	<line width="1" gap="false">
+		<v8ui:style xsi:type="v8ui:SpreadsheetDocumentCellLineType">None</v8ui:style>
+	</line>
 	<font faceName="Arial" height="10" bold="true" italic="false" underline="false" strikeout="false" kind="Absolute" scale="100"/>
 	<format>
-		<width>31</width>
-	</format>
-	<format>
-		<width>197</width>
-	</format>
-	<format>
-		<width>211</width>
+		<width>120</width>
+		<widthWeightFactor>1</widthWeightFactor>
 	</format>
 	<format>
 		<font>0</font>
@@ -392,6 +435,16 @@
 				<v8:AllowedLength>Variable</v8:AllowedLength>
 			</v8:StringQualifiers>
 		</valueType>
+	</format>
+	<format>
+		<leftBorder>1</leftBorder>
+		<topBorder>0</topBorder>
+		<rightBorder>1</rightBorder>
+		<bottomBorder>1</bottomBorder>
+		<containsValue>false</containsValue>
+	</format>
+	<format>
+		<backColor>#00FF00</backColor>
 	</format>
 	<format>
 		<width>72</width>
