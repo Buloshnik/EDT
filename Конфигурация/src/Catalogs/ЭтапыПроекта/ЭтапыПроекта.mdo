@@ -109,6 +109,78 @@
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
   <defaultObjectForm>Catalog.ЭтапыПроекта.Form.ФормаЭлемента</defaultObjectForm>
+  <attributes uuid="9c3fc81f-7dc9-4405-ba03-0df8078548ab">
+    <name>Видео</name>
+    <synonym>
+      <key>ru</key>
+      <value>Видео</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.ЭтапыПроектаПрисоединенныеФайлы</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="39438876-e5ef-4794-a8ee-b359e2553980">
+    <name>Текст</name>
+    <synonym>
+      <key>ru</key>
+      <value>Текст</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers/>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <tabularSections uuid="7057c019-d54d-4d93-a9a8-7cad29033a2e">
+    <producedTypes>
+      <objectType typeId="9560523a-a850-45b7-8e61-421739b8c96f" valueTypeId="1ee6f7e5-d48f-4972-952b-63942bf2f99b"/>
+      <rowType typeId="8b8ebb2b-e749-49f2-878b-9d627fab110b" valueTypeId="6f28a556-be44-45d4-927c-2ba3d20ca12b"/>
+    </producedTypes>
+    <name>Таблица</name>
+    <synonym>
+      <key>ru</key>
+      <value>Таблица</value>
+    </synonym>
+    <attributes uuid="dcb6c77b-5956-44f1-9fbe-dc46ba20a1e7">
+      <name>Колонка1</name>
+      <synonym>
+        <key>ru</key>
+        <value>Колонка1</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers/>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="3e5b975a-3bf6-4879-85fb-6e4a657684cf">
+      <name>Колонка2</name>
+      <synonym>
+        <key>ru</key>
+        <value>Колонка2</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers/>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+  </tabularSections>
   <forms uuid="52a9386b-2182-4ec7-b59b-e6424efb1ad6">
     <name>ФормаЭлемента</name>
     <synonym>
