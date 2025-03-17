@@ -447,6 +447,7 @@
   <commonModules>CommonModule.НастройкиПрограммы</commonModules>
   <commonModules>CommonModule.НастройкиПрограммыКлиент</commonModules>
   <commonModules>CommonModule.НастройкиПрограммыПереопределяемый</commonModules>
+  <commonModules>CommonModule.РасшифроватьВидеоСервер</commonModules>
   <commonAttributes>CommonAttribute.ОтредактированныеПредопределенныеРеквизиты</commonAttributes>
   <exchangePlans>ExchangePlan.ОбновлениеИнформационнойБазы</exchangePlans>
   <webServices>WebService.InterfaceVersion</webServices>
