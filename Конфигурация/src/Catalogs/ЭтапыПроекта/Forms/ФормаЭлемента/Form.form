@@ -382,7 +382,7 @@
       <common>true</common>
     </userVisible>
     <dataPath xsi:type="form:DataPath">
-      <segments>Объект.Таблица</segments>
+      <segments>Объект.ТабличнаяЧасть</segments>
     </dataPath>
     <titleLocation>None</titleLocation>
     <items xsi:type="form:FormField">
@@ -394,7 +394,7 @@
         <common>true</common>
       </userVisible>
       <dataPath xsi:type="form:DataPath">
-        <segments>Объект.Таблица.Колонка1</segments>
+        <segments>Объект.ТабличнаяЧасть.Колонка1</segments>
       </dataPath>
       <extendedTooltip>
         <name>ТаблицаКолонка1РасширеннаяПодсказка</name>
@@ -434,7 +434,7 @@
         <common>true</common>
       </userVisible>
       <dataPath xsi:type="form:DataPath">
-        <segments>Объект.Таблица.Колонка2</segments>
+        <segments>Объект.ТабличнаяЧасть.Колонка2</segments>
       </dataPath>
       <extendedTooltip>
         <name>ТаблицаКолонка2РасширеннаяПодсказка</name>

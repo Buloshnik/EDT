@@ -192,10 +192,10 @@
       <objectType typeId="9560523a-a850-45b7-8e61-421739b8c96f" valueTypeId="1ee6f7e5-d48f-4972-952b-63942bf2f99b"/>
       <rowType typeId="8b8ebb2b-e749-49f2-878b-9d627fab110b" valueTypeId="6f28a556-be44-45d4-927c-2ba3d20ca12b"/>
     </producedTypes>
-    <name>Таблица</name>
+    <name>ТабличнаяЧасть</name>
     <synonym>
       <key>ru</key>
-      <value>Таблица</value>
+      <value>Табличная часть</value>
     </synonym>
     <attributes uuid="dcb6c77b-5956-44f1-9fbe-dc46ba20a1e7">
       <name>Колонка1</name>
