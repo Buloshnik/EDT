@@ -140,6 +140,53 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="4d7cba20-4dea-4d3b-bf57-6461ca2af28d">
+    <name>ТипЭтапа</name>
+    <synonym>
+      <key>ru</key>
+      <value>Тип этапа</value>
+    </synonym>
+    <type>
+      <types>EnumRef.ТипЭтапа</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="01a4daa7-39cc-4948-94a4-69ac1531ea13">
+    <name>РасшифровкаВидео</name>
+    <synonym>
+      <key>ru</key>
+      <value>Расшифровка видео</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers/>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="9fc846fc-f3cc-45d2-a0ad-0f5ed6eb74b3">
+    <name>ДетализацияРасшифровки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Детализация расшифровки</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers/>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <tabularSections uuid="7057c019-d54d-4d93-a9a8-7cad29033a2e">
     <producedTypes>
       <objectType typeId="9560523a-a850-45b7-8e61-421739b8c96f" valueTypeId="1ee6f7e5-d48f-4972-952b-63942bf2f99b"/>
