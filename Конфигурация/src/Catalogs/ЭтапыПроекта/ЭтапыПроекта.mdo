@@ -110,10 +110,10 @@
   <choiceMode>BothWays</choiceMode>
   <defaultObjectForm>Catalog.ЭтапыПроекта.Form.ФормаЭлемента</defaultObjectForm>
   <attributes uuid="9c3fc81f-7dc9-4405-ba03-0df8078548ab">
-    <name>Видео</name>
+    <name>Файл</name>
     <synonym>
       <key>ru</key>
-      <value>Видео</value>
+      <value>Файл</value>
     </synonym>
     <type>
       <types>CatalogRef.ЭтапыПроектаПрисоединенныеФайлы</types>

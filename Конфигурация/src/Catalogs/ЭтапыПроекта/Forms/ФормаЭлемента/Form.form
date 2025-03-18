@@ -214,7 +214,7 @@
       <common>true</common>
     </userVisible>
     <dataPath xsi:type="form:DataPath">
-      <segments>Объект.Видео</segments>
+      <segments>Объект.Файл</segments>
     </dataPath>
     <extendedTooltip>
       <name>ВидеоРасширеннаяПодсказка</name>
