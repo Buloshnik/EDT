@@ -237,4 +237,25 @@
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
+  <templates uuid="667bae6b-e1b1-4e27-b07b-aa2acdb8be1e">
+    <name>Видео</name>
+    <synonym>
+      <key>ru</key>
+      <value>Видео</value>
+    </synonym>
+  </templates>
+  <templates uuid="3c86b8af-0de7-4dab-978f-3b17a5ebd218">
+    <name>РасшифровкаВидео</name>
+    <synonym>
+      <key>ru</key>
+      <value>Расшифровка видео</value>
+    </synonym>
+  </templates>
+  <templates uuid="2dbe8f82-0829-41d6-a492-fbf1b228c566">
+    <name>ОбработаннаяРасшифровкаВидео</name>
+    <synonym>
+      <key>ru</key>
+      <value>Обработанная расшифровка видео</value>
+    </synonym>
+  </templates>
 </mdclass:Catalog>
