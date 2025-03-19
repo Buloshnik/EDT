@@ -8,4 +8,24 @@
       </visible>
     </visibilityFragments>
   </commandsVisibility>
+  <commandsPlacement>
+    <placementFragments>
+      <group>CommandGroup.Справочники</group>
+      <commands>Catalog.ЭтапыПроекта.StandardCommand.OpenList</commands>
+    </placementFragments>
+    <placementFragments>
+      <group>CommandGroup.Документы</group>
+      <commands>Document.ДокументТЗ.StandardCommand.OpenList</commands>
+    </placementFragments>
+  </commandsPlacement>
+  <commandsOrder>
+    <orderFragments>
+      <group>CommandGroup.Справочники</group>
+      <commands>Catalog.ЭтапыПроекта.StandardCommand.OpenList</commands>
+    </orderFragments>
+    <orderFragments>
+      <group>CommandGroup.Документы</group>
+      <commands>Document.ДокументТЗ.StandardCommand.OpenList</commands>
+    </orderFragments>
+  </commandsOrder>
 </cmi:CommandInterface>

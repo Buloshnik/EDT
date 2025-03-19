@@ -110,10 +110,10 @@
   <choiceMode>BothWays</choiceMode>
   <defaultObjectForm>Catalog.ЭтапыПроекта.Form.ФормаЭлемента</defaultObjectForm>
   <attributes uuid="9c3fc81f-7dc9-4405-ba03-0df8078548ab">
-    <name>Видео</name>
+    <name>Файл</name>
     <synonym>
       <key>ru</key>
-      <value>Видео</value>
+      <value>Файл</value>
     </synonym>
     <type>
       <types>CatalogRef.ЭтапыПроектаПрисоединенныеФайлы</types>
@@ -155,53 +155,100 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
-  <attributes uuid="01a4daa7-39cc-4948-94a4-69ac1531ea13">
-    <name>РасшифровкаВидео</name>
-    <synonym>
-      <key>ru</key>
-      <value>Расшифровка видео</value>
-    </synonym>
-    <type>
-      <types>String</types>
-      <stringQualifiers/>
-    </type>
-    <minValue xsi:type="core:UndefinedValue"/>
-    <maxValue xsi:type="core:UndefinedValue"/>
-    <fillValue xsi:type="core:UndefinedValue"/>
-    <fullTextSearch>Use</fullTextSearch>
-    <dataHistory>Use</dataHistory>
-  </attributes>
-  <attributes uuid="9fc846fc-f3cc-45d2-a0ad-0f5ed6eb74b3">
-    <name>ДетализацияРасшифровки</name>
-    <synonym>
-      <key>ru</key>
-      <value>Детализация расшифровки</value>
-    </synonym>
-    <type>
-      <types>String</types>
-      <stringQualifiers/>
-    </type>
-    <minValue xsi:type="core:UndefinedValue"/>
-    <maxValue xsi:type="core:UndefinedValue"/>
-    <fillValue xsi:type="core:UndefinedValue"/>
-    <fullTextSearch>Use</fullTextSearch>
-    <dataHistory>Use</dataHistory>
-  </attributes>
   <tabularSections uuid="7057c019-d54d-4d93-a9a8-7cad29033a2e">
     <producedTypes>
       <objectType typeId="9560523a-a850-45b7-8e61-421739b8c96f" valueTypeId="1ee6f7e5-d48f-4972-952b-63942bf2f99b"/>
       <rowType typeId="8b8ebb2b-e749-49f2-878b-9d627fab110b" valueTypeId="6f28a556-be44-45d4-927c-2ba3d20ca12b"/>
     </producedTypes>
-    <name>Таблица</name>
+    <name>ТЧДействия</name>
     <synonym>
       <key>ru</key>
-      <value>Таблица</value>
+      <value>ТЧДействия</value>
     </synonym>
     <attributes uuid="dcb6c77b-5956-44f1-9fbe-dc46ba20a1e7">
-      <name>Колонка1</name>
+      <name>ИмяДействия</name>
       <synonym>
         <key>ru</key>
-        <value>Колонка1</value>
+        <value>Имя действия</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>50</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="3e5b975a-3bf6-4879-85fb-6e4a657684cf">
+      <name>ОбработчикДействия</name>
+      <synonym>
+        <key>ru</key>
+        <value>Обработчик действия</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>60</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="e4c50acf-f3d2-4726-8d78-68cbc0906569">
+      <name>ПредставлениеДествия</name>
+      <synonym>
+        <key>ru</key>
+        <value>Представление дествия</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>50</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+  </tabularSections>
+  <tabularSections uuid="12d79687-082a-4ad0-a480-ca6e18db4782">
+    <producedTypes>
+      <objectType typeId="eb235d25-4692-40cb-8b20-5781c0134ecd" valueTypeId="4a05f70c-9b43-455c-9c6f-aae6c0c21fce"/>
+      <rowType typeId="fc41daa3-d47c-40be-a7a9-f3a324147cf1" valueTypeId="1acd896a-4330-461b-b8fc-13111d4c35e2"/>
+    </producedTypes>
+    <name>ТЧТабличныеДанные</name>
+    <synonym>
+      <key>ru</key>
+      <value>ТЧТабличные данные</value>
+    </synonym>
+    <attributes uuid="4942bb37-c6ce-433a-8b62-e71680955daf">
+      <name>ИмяКолонки</name>
+      <synonym>
+        <key>ru</key>
+        <value>Имя колонки</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>50</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="7aa9abee-bcce-4084-ab10-dacb1a20c9ca">
+      <name>ДанныеКолонки</name>
+      <synonym>
+        <key>ru</key>
+        <value>Данные колонки</value>
       </synonym>
       <type>
         <types>String</types>
@@ -212,15 +259,45 @@
       <dataHistory>Use</dataHistory>
       <fullTextSearch>Use</fullTextSearch>
     </attributes>
-    <attributes uuid="3e5b975a-3bf6-4879-85fb-6e4a657684cf">
-      <name>Колонка2</name>
+  </tabularSections>
+  <tabularSections uuid="e65b92ab-37ae-4d28-8638-21d5f4cf04c0">
+    <producedTypes>
+      <objectType typeId="af1d486a-2d08-4d43-9ce8-cf4710ab6d5d" valueTypeId="289f6364-6fdc-47f5-9402-301ed0e899fa"/>
+      <rowType typeId="3c3edcc6-9bd5-44dc-ade5-9fb48475fb71" valueTypeId="552ca141-41e5-424b-8997-28145fed336a"/>
+    </producedTypes>
+    <name>ТЧСтруктураКолонок</name>
+    <synonym>
+      <key>ru</key>
+      <value>ТЧСтруктура колонок</value>
+    </synonym>
+    <attributes uuid="439a3e15-8957-49a6-9c5a-9aaee0d57c20">
+      <name>ИмяКолонки</name>
       <synonym>
         <key>ru</key>
-        <value>Колонка2</value>
+        <value>Имя колонки</value>
       </synonym>
       <type>
         <types>String</types>
-        <stringQualifiers/>
+        <stringQualifiers>
+          <length>20</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="fa33d9fe-93a4-4292-be08-00f45c7f7a13">
+      <name>ТипКолонки</name>
+      <synonym>
+        <key>ru</key>
+        <value>Тип колонки</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>20</length>
+        </stringQualifiers>
       </type>
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>

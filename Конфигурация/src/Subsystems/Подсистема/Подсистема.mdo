@@ -8,4 +8,5 @@
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>Document.ДокументТЗ</content>
+  <content>Catalog.ЭтапыПроекта</content>
 </mdclass:Subsystem>
