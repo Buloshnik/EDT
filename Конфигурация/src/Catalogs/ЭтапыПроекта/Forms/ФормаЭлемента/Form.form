@@ -202,11 +202,11 @@
     </extInfo>
   </items>
   <items xsi:type="form:FormField">
-    <name>Видео</name>
+    <name>Файл</name>
     <id>16</id>
     <title>
       <key>ru</key>
-      <value>Видео</value>
+      <value>Файл</value>
     </title>
     <visible>true</visible>
     <enabled>true</enabled>
@@ -217,7 +217,7 @@
       <segments>Объект.Файл</segments>
     </dataPath>
     <extendedTooltip>
-      <name>ВидеоРасширеннаяПодсказка</name>
+      <name>ФайлРасширеннаяПодсказка</name>
       <id>18</id>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
@@ -227,7 +227,7 @@
       </extInfo>
     </extendedTooltip>
     <contextMenu>
-      <name>ВидеоКонтекстноеМеню</name>
+      <name>ФайлКонтекстноеМеню</name>
       <id>17</id>
       <autoFill>true</autoFill>
     </contextMenu>
