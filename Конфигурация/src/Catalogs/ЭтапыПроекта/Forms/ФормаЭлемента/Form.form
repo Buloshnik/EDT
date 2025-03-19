@@ -268,10 +268,19 @@
       <id>53</id>
       <autoFill>true</autoFill>
     </contextMenu>
+    <type>InputField</type>
     <editMode>Enter</editMode>
     <showInHeader>true</showInHeader>
     <headerHorizontalAlign>Left</headerHorizontalAlign>
     <showInFooter>true</showInFooter>
+    <extInfo xsi:type="form:InputFieldExtInfo">
+      <autoMaxWidth>true</autoMaxWidth>
+      <autoMaxHeight>true</autoMaxHeight>
+      <wrap>true</wrap>
+      <chooseType>true</chooseType>
+      <typeDomainEnabled>true</typeDomainEnabled>
+      <textEdit>true</textEdit>
+    </extInfo>
   </items>
   <items xsi:type="form:FormField">
     <name>ДетализацияРасшифровки</name>
@@ -296,10 +305,19 @@
       <id>50</id>
       <autoFill>true</autoFill>
     </contextMenu>
+    <type>InputField</type>
     <editMode>Enter</editMode>
     <showInHeader>true</showInHeader>
     <headerHorizontalAlign>Left</headerHorizontalAlign>
     <showInFooter>true</showInFooter>
+    <extInfo xsi:type="form:InputFieldExtInfo">
+      <autoMaxWidth>true</autoMaxWidth>
+      <autoMaxHeight>true</autoMaxHeight>
+      <wrap>true</wrap>
+      <chooseType>true</chooseType>
+      <typeDomainEnabled>true</typeDomainEnabled>
+      <textEdit>true</textEdit>
+    </extInfo>
   </items>
   <items xsi:type="form:FormField">
     <name>Текст</name>
@@ -450,7 +468,7 @@
         <common>true</common>
       </userVisible>
       <dataPath xsi:type="form:DataPath">
-        <segments>Объект.ТЧДействия.ПредставлениеДествия</segments>
+        <segments>Объект.ТЧДействия.ПредставлениеДействия</segments>
       </dataPath>
       <extendedTooltip>
         <name>ТчДействияПредставлениеДествияРасширеннаяПодсказка</name>

@@ -200,10 +200,10 @@
       <fullTextSearch>Use</fullTextSearch>
     </attributes>
     <attributes uuid="e4c50acf-f3d2-4726-8d78-68cbc0906569">
-      <name>ПредставлениеДествия</name>
+      <name>ПредставлениеДействия</name>
       <synonym>
         <key>ru</key>
-        <value>Представление дествия</value>
+        <value>Представление действия</value>
       </synonym>
       <type>
         <types>String</types>
