@@ -321,18 +321,18 @@
       <value>Видео</value>
     </synonym>
   </templates>
-  <templates uuid="3c86b8af-0de7-4dab-978f-3b17a5ebd218">
-    <name>РасшифровкаВидео</name>
+  <templates uuid="7ee0a426-591d-493b-971e-7edab516da14">
+    <name>Текст</name>
     <synonym>
       <key>ru</key>
-      <value>Расшифровка видео</value>
+      <value>Текст</value>
     </synonym>
   </templates>
-  <templates uuid="2dbe8f82-0829-41d6-a492-fbf1b228c566">
-    <name>ОбработаннаяРасшифровкаВидео</name>
+  <templates uuid="e9fe1326-6a61-4ccb-b21a-886e618fd518">
+    <name>Таблица</name>
     <synonym>
       <key>ru</key>
-      <value>Обработанная расшифровка видео</value>
+      <value>Таблица</value>
     </synonym>
   </templates>
 </mdclass:Catalog>
