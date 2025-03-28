@@ -264,6 +264,12 @@
 			</column>
 		</columnsItem>
 		<columnsItem>
+			<index>42</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
 			<index>43</index>
 			<column>
 				<formatIndex>1</formatIndex>
@@ -331,12 +337,6 @@
 		</columnsItem>
 		<columnsItem>
 			<index>54</index>
-			<column>
-				<formatIndex>1</formatIndex>
-			</column>
-		</columnsItem>
-		<columnsItem>
-			<index>42</index>
 			<column>
 				<formatIndex>1</formatIndex>
 			</column>
