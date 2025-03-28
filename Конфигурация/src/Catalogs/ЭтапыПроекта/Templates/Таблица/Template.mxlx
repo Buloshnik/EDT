@@ -2266,17 +2266,10 @@
 			</c>
 		</row>
 	</rowsItem>
-	<rowsItem>
-		<index>9</index>
-		<indexTo>64</indexTo>
-		<row>
-			<empty>true</empty>
-		</row>
-	</rowsItem>
 	<templateMode>true</templateMode>
 	<defaultFormatIndex>12</defaultFormatIndex>
-	<height>65</height>
-	<vgRows>65</vgRows>
+	<height>9</height>
+	<vgRows>9</vgRows>
 	<merge>
 		<r>0</r>
 		<c>15</c>
@@ -2446,19 +2439,19 @@
 		<width>72</width>
 	</format>
 	<picture>
-		<index>3</index>
+		<index>0</index>
 		<picture t="false" ref="v8ui:MoveRight"/>
 	</picture>
 	<picture>
-		<index>5</index>
+		<index>1</index>
 		<picture t="false" ref="v8ui:MoveDown"/>
 	</picture>
 	<picture>
-		<index>4</index>
+		<index>2</index>
 		<picture t="false" ref="v8ui:MoveLeft"/>
 	</picture>
 	<picture>
-		<index>6</index>
+		<index>3</index>
 		<picture t="false" ref="v8ui:MoveUp"/>
 	</picture>
 </document>
