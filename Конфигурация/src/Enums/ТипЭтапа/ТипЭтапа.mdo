@@ -84,4 +84,18 @@
       <value>Обработанная расшифровка</value>
     </synonym>
   </enumValues>
+  <enumValues uuid="5e6921e1-e222-4144-9b40-21948868014e">
+    <name>СхемаДанных</name>
+    <synonym>
+      <key>ru</key>
+      <value>Схема данных</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="e6b6cce8-7452-4dca-a48a-c689bf84115b">
+    <name>Класс</name>
+    <synonym>
+      <key>ru</key>
+      <value>Класс</value>
+    </synonym>
+  </enumValues>
 </mdclass:Enum>
