@@ -611,6 +611,8 @@
   <catalogs>Catalog.ЭтапыПроектаПрисоединенныеФайлы</catalogs>
   <catalogs>Catalog.Организация</catalogs>
   <catalogs>Catalog.ФизическиеЛица</catalogs>
+  <catalogs>Catalog.СхемаДанных</catalogs>
+  <catalogs>Catalog.Классы</catalogs>
   <documents>Document.ДокументТЗ</documents>
   <enums>Enum.ВариантыОчисткиФайлов</enums>
   <enums>Enum.ВариантыСжатияTIFF</enums>

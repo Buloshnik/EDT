@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="8fa53dcc-0de2-4761-8f79-726be41b4385">
+  <producedTypes>
+    <objectType typeId="e37cc086-579b-4200-9350-4f36b2372676" valueTypeId="36e968e6-4a8e-4c17-9cb1-6c5ee3b0bd1b"/>
+    <refType typeId="8d89a25a-f2e0-490c-8341-8c4e8eb7b352" valueTypeId="d7180c22-8a9d-4125-a0f8-eda2bed20674"/>
+    <selectionType typeId="e05bd93d-5291-40cb-93c1-26851a644e0f" valueTypeId="55e3b5f1-405a-4485-8243-8cbc67d20ebc"/>
+    <listType typeId="bf5e0092-d8c0-418e-92e4-ac702b2a316e" valueTypeId="bc55864b-05fb-4bbf-b645-5c4218f1a237"/>
+    <managerType typeId="610d8dd7-39e8-43c0-bc37-c132edd6d3c3" valueTypeId="435444f9-d7b7-4a76-9a73-267f463a615e"/>
+  </producedTypes>
+  <name>СхемаДанных</name>
+  <synonym>
+    <key>ru</key>
+    <value>Схема данных</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.СхемаДанных.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.СхемаДанных.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+  <tabularSections uuid="f4d20425-139a-4e1a-9306-c4be02a27103">
+    <producedTypes>
+      <objectType typeId="78e9a0f0-6bf3-4f65-bc6b-55672962c16e" valueTypeId="5e71efde-7b24-4ed3-af3d-6c1d168bef73"/>
+      <rowType typeId="6bbf4175-4cb9-486d-8c8d-4d0f82688d37" valueTypeId="54cc19a8-0c1f-4b62-966b-e2609efa185d"/>
+    </producedTypes>
+    <name>ТЧКлассы</name>
+    <synonym>
+      <key>ru</key>
+      <value>ТЧКлассы</value>
+    </synonym>
+    <attributes uuid="6a101052-edeb-4455-a967-5331a0264f86">
+      <name>Класс</name>
+      <synonym>
+        <key>ru</key>
+        <value>Класс</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>10</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+  </tabularSections>
+</mdclass:Catalog>
