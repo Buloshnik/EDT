@@ -337,4 +337,11 @@
       <value>Таблица</value>
     </synonym>
   </templates>
+  <templates uuid="97916ca6-50e1-4392-9523-6a3019d10576">
+    <name>Картинка</name>
+    <synonym>
+      <key>ru</key>
+      <value>Картинка</value>
+    </synonym>
+  </templates>
 </mdclass:Catalog>

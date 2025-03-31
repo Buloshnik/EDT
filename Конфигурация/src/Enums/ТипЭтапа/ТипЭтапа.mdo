@@ -98,4 +98,11 @@
       <value>Класс</value>
     </synonym>
   </enumValues>
+  <enumValues uuid="edab2631-9f9c-451e-bb32-d951305e2e4e">
+    <name>Изображение</name>
+    <synonym>
+      <key>ru</key>
+      <value>Изображение</value>
+    </synonym>
+  </enumValues>
 </mdclass:Enum>
