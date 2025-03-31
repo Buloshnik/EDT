@@ -771,6 +771,8 @@
       <verticalStretch>true</verticalStretch>
       <showGrid>true</showGrid>
       <showHeaders>true</showHeaders>
+      <showCellNames>true</showCellNames>
+      <showRowAndColumnNames>true</showRowAndColumnNames>
       <pointerType>Special</pointerType>
       <verticalScrollBar>ScrollAuto</verticalScrollBar>
       <horizontalScrollBar>ScrollAuto</horizontalScrollBar>
