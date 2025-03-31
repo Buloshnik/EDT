@@ -227,6 +227,83 @@
       <fullTextSearch>Use</fullTextSearch>
     </attributes>
   </tabularSections>
+  <tabularSections uuid="fe0c005c-efd4-40dc-8a37-8971b51dbf4c">
+    <producedTypes>
+      <objectType typeId="83c8add3-451d-4ead-b3ac-87149b8252bb" valueTypeId="9257127a-73a3-436c-ac78-d28b0da0eb52"/>
+      <rowType typeId="3d14fc79-2711-467b-9eb7-cf90d6b59e45" valueTypeId="2e1f8faf-dbac-4607-b76c-e7d35e054dfe"/>
+    </producedTypes>
+    <name>ТЧКоманды</name>
+    <synonym>
+      <key>ru</key>
+      <value>ТЧКоманды</value>
+    </synonym>
+    <attributes uuid="9c372cd5-08b7-43c5-8299-30d1b8d53c4e">
+      <name>ИмяКоманды</name>
+      <synonym>
+        <key>ru</key>
+        <value>Имя команды</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>255</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="92f4f5ca-33d5-40c8-a254-ebf70cdf301c">
+      <name>ИмяАлгоритма</name>
+      <synonym>
+        <key>ru</key>
+        <value>Имя алгоритма</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>255</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="93990488-c7c4-48ec-a740-7ce43b13e778">
+      <name>ДействияАлгоритма</name>
+      <synonym>
+        <key>ru</key>
+        <value>Действия алгоритма</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers/>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="38c24071-77df-46ab-b3dd-fadb06cdd399">
+      <name>Примечание</name>
+      <synonym>
+        <key>ru</key>
+        <value>Примечание</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>255</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+  </tabularSections>
   <forms uuid="4d2d8757-83b2-4087-92aa-628d094330bc">
     <name>ФормаКласса</name>
     <synonym>
