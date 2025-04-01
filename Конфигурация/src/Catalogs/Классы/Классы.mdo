@@ -30,7 +30,7 @@
   <defaultPresentation>AsDescription</defaultPresentation>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
-  <defaultObjectForm>Catalog.Классы.Form.ФормаКласса</defaultObjectForm>
+  <defaultObjectForm>Catalog.Классы.Form.ФормаЭлемента</defaultObjectForm>
   <attributes uuid="198f16b3-375a-494d-8747-dd0ff2e46661">
     <name>ТипКласса</name>
     <synonym>
@@ -309,6 +309,15 @@
     <synonym>
       <key>ru</key>
       <value>Форма класса</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="f281b11a-f198-48b2-9ccf-c8aaa12ca264">
+    <name>ФормаЭлемента</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма элемента</value>
     </synonym>
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
