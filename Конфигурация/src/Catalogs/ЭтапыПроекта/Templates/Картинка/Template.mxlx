@@ -1055,7 +1055,7 @@
 			</c>
 			<c>
 				<c>
-					<f>5</f>
+					<f>0</f>
 				</c>
 			</c>
 			<c>
@@ -1126,7 +1126,7 @@
 			</c>
 			<c>
 				<c>
-					<f>6</f>
+					<f>5</f>
 					<v xsi:type="xs:string"/>
 				</c>
 			</c>
@@ -1158,7 +1158,7 @@
 			</c>
 			<c>
 				<c>
-					<f>7</f>
+					<f>6</f>
 				</c>
 			</c>
 			<c>
@@ -1189,7 +1189,7 @@
 			</c>
 			<c>
 				<c>
-					<f>7</f>
+					<f>6</f>
 				</c>
 			</c>
 			<c>
@@ -1220,7 +1220,7 @@
 			</c>
 			<c>
 				<c>
-					<f>7</f>
+					<f>6</f>
 				</c>
 			</c>
 			<c>
@@ -1251,7 +1251,7 @@
 			</c>
 			<c>
 				<c>
-					<f>7</f>
+					<f>6</f>
 				</c>
 			</c>
 			<c>
@@ -1657,8 +1657,42 @@
 			</c>
 		</row>
 	</rowsItem>
+	<drawing>
+		<drawingType>Picture</drawingType>
+		<id>1</id>
+		<formatIndex>7</formatIndex>
+		<beginRow>0</beginRow>
+		<beginRowOffset>-3</beginRowOffset>
+		<endRow>1</endRow>
+		<endRowOffset>0</endRowOffset>
+		<beginColumn>21</beginColumn>
+		<beginColumnOffset>38</beginColumnOffset>
+		<endColumn>23</endColumn>
+		<endColumnOffset>2</endColumnOffset>
+		<autoSize>false</autoSize>
+		<pictureSize>Stretch</pictureSize>
+		<zOrder>1</zOrder>
+		<pictureIndex>1</pictureIndex>
+	</drawing>
+	<drawing>
+		<drawingType>Picture</drawingType>
+		<id>2</id>
+		<formatIndex>8</formatIndex>
+		<beginRow>1</beginRow>
+		<beginRowOffset>0</beginRowOffset>
+		<endRow>2</endRow>
+		<endRowOffset>3</endRowOffset>
+		<beginColumn>28</beginColumn>
+		<beginColumnOffset>0</beginColumnOffset>
+		<endColumn>29</endColumn>
+		<endColumnOffset>6</endColumnOffset>
+		<autoSize>false</autoSize>
+		<pictureSize>Stretch</pictureSize>
+		<zOrder>2</zOrder>
+		<pictureIndex>2</pictureIndex>
+	</drawing>
 	<templateMode>true</templateMode>
-	<defaultFormatIndex>8</defaultFormatIndex>
+	<defaultFormatIndex>9</defaultFormatIndex>
 	<height>9</height>
 	<vgRows>9</vgRows>
 	<merge>
@@ -1673,7 +1707,7 @@
 		<w>33</w>
 	</merge>
 	<namedItem xsi:type="NamedItemCells">
-		<name>ЗаголовокТекста</name>
+		<name>ЗаголовокКартинки</name>
 		<area>
 			<type>Rectangle</type>
 			<beginRow>1</beginRow>
@@ -1682,36 +1716,8 @@
 			<endColumn>12</endColumn>
 		</area>
 	</namedItem>
-	<namedItem xsi:type="NamedItemDrawing">
-		<name>КнопкаОтменитьДанные</name>
-		<drawingID>1</drawingID>
-	</namedItem>
 	<namedItem xsi:type="NamedItemCells">
-		<name>КнопкаОтменитьДанные1</name>
-		<area>
-			<type>Rectangle</type>
-			<beginRow>1</beginRow>
-			<endRow>1</endRow>
-			<beginColumn>21</beginColumn>
-			<endColumn>21</endColumn>
-		</area>
-	</namedItem>
-	<namedItem xsi:type="NamedItemCells">
-		<name>КнопкаУдалить</name>
-		<area>
-			<type>Rectangle</type>
-			<beginRow>1</beginRow>
-			<endRow>1</endRow>
-			<beginColumn>28</beginColumn>
-			<endColumn>28</endColumn>
-		</area>
-	</namedItem>
-	<namedItem xsi:type="NamedItemDrawing">
-		<name>КнопкаУдалитьДанные</name>
-		<drawingID>2</drawingID>
-	</namedItem>
-	<namedItem xsi:type="NamedItemCells">
-		<name>Текст</name>
+		<name>Картинка</name>
 		<area>
 			<type>Rectangle</type>
 			<beginRow>0</beginRow>
@@ -1721,7 +1727,17 @@
 		</area>
 	</namedItem>
 	<namedItem xsi:type="NamedItemCells">
-		<name>ТекстовоеПоле</name>
+		<name>КнопкаВыбратьКартинку</name>
+		<area>
+			<type>Rectangle</type>
+			<beginRow>1</beginRow>
+			<endRow>1</endRow>
+			<beginColumn>21</beginColumn>
+			<endColumn>21</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
+		<name>ПолеКартинки</name>
 		<area>
 			<type>Rectangle</type>
 			<beginRow>2</beginRow>
@@ -1730,6 +1746,9 @@
 			<endColumn>35</endColumn>
 		</area>
 	</namedItem>
+	<line width="1" gap="false">
+		<v8ui:style xsi:type="v8ui:SpreadsheetDocumentDrawingLineType">None</v8ui:style>
+	</line>
 	<format>
 		<width>16</width>
 	</format>
@@ -1747,9 +1766,6 @@
 	<format>
 		<fillType>Text</fillType>
 		<containsValue>false</containsValue>
-	</format>
-	<format>
-		<picIndex>2</picIndex>
 	</format>
 	<format>
 		<backColor>style:ФонУправляющегоПоля</backColor>
@@ -1772,6 +1788,13 @@
 				<v8:AllowedLength>Variable</v8:AllowedLength>
 			</v8:StringQualifiers>
 		</valueType>
+	</format>
+	<format>
+		<drawingBorder>0</drawingBorder>
+	</format>
+	<format>
+		<drawingBorder>0</drawingBorder>
+		<hyperLink>false</hyperLink>
 	</format>
 	<format>
 		<width>72</width>
