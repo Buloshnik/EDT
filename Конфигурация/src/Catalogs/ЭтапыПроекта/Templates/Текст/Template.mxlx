@@ -1753,6 +1753,7 @@
 	</format>
 	<format>
 		<backColor>style:ФонУправляющегоПоля</backColor>
+		<protection>false</protection>
 		<containsValue>true</containsValue>
 		<valueType>
 			<v8:Type>xs:string</v8:Type>
@@ -1765,6 +1766,7 @@
 	</format>
 	<format>
 		<backColor>style:ФонУправляющегоПоля</backColor>
+		<protection>false</protection>
 		<valueType>
 			<v8:Type>xs:string</v8:Type>
 			<v8:StringQualifiers>

@@ -776,6 +776,7 @@
       <pointerType>Special</pointerType>
       <verticalScrollBar>ScrollAuto</verticalScrollBar>
       <horizontalScrollBar>ScrollAuto</horizontalScrollBar>
+      <protection>true</protection>
       <selectionShowMode>Always</selectionShowMode>
       <drawingSelectionShowMode>Auto</drawingSelectionShowMode>
       <edit>true</edit>
