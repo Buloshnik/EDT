@@ -659,6 +659,8 @@
   <dataProcessors>DataProcessor.РекомендацияПоПовышениюСкоростиРаботы</dataProcessors>
   <dataProcessors>DataProcessor.Сканирование</dataProcessors>
   <dataProcessors>DataProcessor.ПанельАдминистрированияБСП</dataProcessors>
+  <dataProcessors>DataProcessor.ЗагрузкаМетаданныхКонфигурацииИзФайла</dataProcessors>
+  <dataProcessors>DataProcessor.ВыгрузитьМетаданныеВФайл</dataProcessors>
   <informationRegisters>InformationRegister.БезопасноеХранилищеДанных</informationRegisters>
   <informationRegisters>InformationRegister.БезопасноеХранилищеДанныхОбластейДанных</informationRegisters>
   <informationRegisters>InformationRegister.ВерсииПодсистем</informationRegisters>
