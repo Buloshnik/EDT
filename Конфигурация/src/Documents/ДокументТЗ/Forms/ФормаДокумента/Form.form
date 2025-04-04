@@ -770,12 +770,10 @@
       <horizontalStretch>true</horizontalStretch>
       <verticalStretch>true</verticalStretch>
       <showGrid>true</showGrid>
-      <showHeaders>true</showHeaders>
-      <showCellNames>true</showCellNames>
-      <showRowAndColumnNames>true</showRowAndColumnNames>
       <pointerType>Special</pointerType>
       <verticalScrollBar>ScrollAuto</verticalScrollBar>
       <horizontalScrollBar>ScrollAuto</horizontalScrollBar>
+      <protection>true</protection>
       <selectionShowMode>Always</selectionShowMode>
       <drawingSelectionShowMode>Auto</drawingSelectionShowMode>
       <edit>true</edit>
