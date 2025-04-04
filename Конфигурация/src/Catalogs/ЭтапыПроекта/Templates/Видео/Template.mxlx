@@ -2458,7 +2458,7 @@
 		<drawingID>1</drawingID>
 	</namedItem>
 	<namedItem xsi:type="NamedItemCells">
-		<name>СсылкаНаВидео</name>
+		<name>КнопкаСсылкаНаВидео</name>
 		<area>
 			<type>Rectangle</type>
 			<beginRow>2</beginRow>
