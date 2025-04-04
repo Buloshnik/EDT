@@ -748,6 +748,10 @@
           <horizontalAlign>Left</horizontalAlign>
           <autoFill>true</autoFill>
         </autoCommandBar>
+        <handlers>
+          <event>OnEditEnd</event>
+          <name>ТЧТабличныеДанныеПриОкончанииРедактирования</name>
+        </handlers>
         <searchStringAddition>
           <name>ТЧТабличныеДанныеСтрокаПоиска</name>
           <id>90</id>
