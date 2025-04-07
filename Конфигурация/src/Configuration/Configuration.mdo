@@ -448,6 +448,9 @@
   <commonModules>CommonModule.НастройкиПрограммыКлиент</commonModules>
   <commonModules>CommonModule.НастройкиПрограммыПереопределяемый</commonModules>
   <commonModules>CommonModule.РасшифроватьВидеоСервер</commonModules>
+  <commonModules>CommonModule.РаботаСФормами</commonModules>
+  <commonModules>CommonModule.РаботаСФормамиКлиент</commonModules>
+  <commonModules>CommonModule.РаботаСФормамиКлиентСервер</commonModules>
   <commonAttributes>CommonAttribute.ОтредактированныеПредопределенныеРеквизиты</commonAttributes>
   <exchangePlans>ExchangePlan.ОбновлениеИнформационнойБазы</exchangePlans>
   <webServices>WebService.InterfaceVersion</webServices>
@@ -656,6 +659,8 @@
   <dataProcessors>DataProcessor.РекомендацияПоПовышениюСкоростиРаботы</dataProcessors>
   <dataProcessors>DataProcessor.Сканирование</dataProcessors>
   <dataProcessors>DataProcessor.ПанельАдминистрированияБСП</dataProcessors>
+  <dataProcessors>DataProcessor.ЗагрузкаМетаданныхКонфигурацииИзФайла</dataProcessors>
+  <dataProcessors>DataProcessor.ВыгрузитьМетаданныеВФайл</dataProcessors>
   <informationRegisters>InformationRegister.БезопасноеХранилищеДанных</informationRegisters>
   <informationRegisters>InformationRegister.БезопасноеХранилищеДанныхОбластейДанных</informationRegisters>
   <informationRegisters>InformationRegister.ВерсииПодсистем</informationRegisters>
