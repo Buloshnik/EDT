@@ -1659,25 +1659,8 @@
 	</rowsItem>
 	<drawing>
 		<drawingType>Picture</drawingType>
-		<id>1</id>
-		<formatIndex>7</formatIndex>
-		<beginRow>0</beginRow>
-		<beginRowOffset>-3</beginRowOffset>
-		<endRow>1</endRow>
-		<endRowOffset>0</endRowOffset>
-		<beginColumn>21</beginColumn>
-		<beginColumnOffset>38</beginColumnOffset>
-		<endColumn>23</endColumn>
-		<endColumnOffset>2</endColumnOffset>
-		<autoSize>false</autoSize>
-		<pictureSize>Stretch</pictureSize>
-		<zOrder>1</zOrder>
-		<pictureIndex>1</pictureIndex>
-	</drawing>
-	<drawing>
-		<drawingType>Picture</drawingType>
 		<id>2</id>
-		<formatIndex>8</formatIndex>
+		<formatIndex>7</formatIndex>
 		<beginRow>1</beginRow>
 		<beginRowOffset>0</beginRowOffset>
 		<endRow>2</endRow>
@@ -1688,11 +1671,10 @@
 		<endColumnOffset>6</endColumnOffset>
 		<autoSize>false</autoSize>
 		<pictureSize>Stretch</pictureSize>
-		<zOrder>2</zOrder>
-		<pictureIndex>2</pictureIndex>
+		<pictureIndex>1</pictureIndex>
 	</drawing>
 	<templateMode>true</templateMode>
-	<defaultFormatIndex>9</defaultFormatIndex>
+	<defaultFormatIndex>8</defaultFormatIndex>
 	<height>9</height>
 	<vgRows>9</vgRows>
 	<merge>
@@ -1760,7 +1742,7 @@
 		<valueType>
 			<v8:Type>xs:boolean</v8:Type>
 		</valueType>
-		<picIndex>1</picIndex>
+		<picIndex>2</picIndex>
 		<textPosition>Right</textPosition>
 	</format>
 	<format>
@@ -1791,20 +1773,17 @@
 	</format>
 	<format>
 		<drawingBorder>0</drawingBorder>
-	</format>
-	<format>
-		<drawingBorder>0</drawingBorder>
 		<hyperLink>false</hyperLink>
 	</format>
 	<format>
 		<width>72</width>
 	</format>
 	<picture>
-		<index>0</index>
-		<picture t="false" ref="v8ui:UndoPosting"/>
-	</picture>
-	<picture>
 		<index>1</index>
 		<picture t="false" ref="v8ui:MarkToDelete"/>
+	</picture>
+	<picture>
+		<index>0</index>
+		<picture t="false" ref="v8ui:UndoPosting"/>
 	</picture>
 </document>

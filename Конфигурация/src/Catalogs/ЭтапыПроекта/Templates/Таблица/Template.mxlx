@@ -838,6 +838,7 @@
 			<c>
 				<c>
 					<f>2</f>
+					<tl/>
 				</c>
 			</c>
 			<c>
@@ -1018,6 +1019,7 @@
 			<c>
 				<c>
 					<f>6</f>
+					<tl/>
 				</c>
 			</c>
 			<c>
@@ -2052,6 +2054,7 @@
 			<c>
 				<c>
 					<f>0</f>
+					<tl/>
 				</c>
 			</c>
 			<c>
@@ -2323,6 +2326,46 @@
 		</area>
 	</namedItem>
 	<namedItem xsi:type="NamedItemCells">
+		<name>КнопкаДобавитьСтолбец</name>
+		<area>
+			<type>Rectangle</type>
+			<beginRow>0</beginRow>
+			<endRow>0</endRow>
+			<beginColumn>14</beginColumn>
+			<endColumn>14</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
+		<name>КнопкаДобавитьСтроку</name>
+		<area>
+			<type>Rectangle</type>
+			<beginRow>0</beginRow>
+			<endRow>0</endRow>
+			<beginColumn>23</beginColumn>
+			<endColumn>23</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
+		<name>КнопкаУдалитьСтолбец</name>
+		<area>
+			<type>Rectangle</type>
+			<beginRow>1</beginRow>
+			<endRow>1</endRow>
+			<beginColumn>14</beginColumn>
+			<endColumn>14</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
+		<name>КнопкаУдалитьСтроку</name>
+		<area>
+			<type>Rectangle</type>
+			<beginRow>1</beginRow>
+			<endRow>1</endRow>
+			<beginColumn>23</beginColumn>
+			<endColumn>23</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
 		<name>Строка</name>
 		<area>
 			<type>Rectangle</type>
@@ -2385,6 +2428,7 @@
 	</format>
 	<format>
 		<backColor>style:ФонУправляющегоПоля</backColor>
+		<protection>false</protection>
 		<containsValue>true</containsValue>
 		<valueType>
 			<v8:Type>xs:string</v8:Type>
@@ -2401,6 +2445,7 @@
 	</format>
 	<format>
 		<backColor>style:ФонУправляющегоПоля</backColor>
+		<protection>false</protection>
 		<containsValue>true</containsValue>
 		<valueType>
 			<v8:Type>xs:string</v8:Type>
@@ -2413,6 +2458,7 @@
 	<format>
 		<border>0</border>
 		<borderColor>style:FormTextColor</borderColor>
+		<protection>false</protection>
 		<containsValue>true</containsValue>
 		<valueType>
 			<v8:Type>xs:string</v8:Type>
@@ -2426,6 +2472,7 @@
 	<format>
 		<border>0</border>
 		<borderColor>style:FormTextColor</borderColor>
+		<protection>false</protection>
 		<containsValue>true</containsValue>
 		<valueType>
 			<v8:Type>xs:string</v8:Type>

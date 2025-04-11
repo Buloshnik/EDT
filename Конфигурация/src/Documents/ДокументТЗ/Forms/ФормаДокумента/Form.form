@@ -774,6 +774,7 @@
       <pointerType>Special</pointerType>
       <verticalScrollBar>ScrollAuto</verticalScrollBar>
       <horizontalScrollBar>ScrollAuto</horizontalScrollBar>
+      <protection>true</protection>
       <selectionShowMode>Always</selectionShowMode>
       <drawingSelectionShowMode>Auto</drawingSelectionShowMode>
       <edit>true</edit>
@@ -836,10 +837,10 @@
     <extInfo xsi:type="form:SpreadsheetDocumentExtInfo"/>
   </attributes>
   <attributes>
-    <name>Счетчик</name>
+    <name>гСчетчик</name>
     <title>
       <key>ru</key>
-      <value>Счетчик</value>
+      <value>счетчик</value>
     </title>
     <id>3</id>
     <valueType>
@@ -855,6 +856,7 @@
     <edit>
       <common>true</common>
     </edit>
+    <savedData>true</savedData>
   </attributes>
   <attributes>
     <name>ПунктСписка</name>
