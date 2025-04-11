@@ -9,4 +9,7 @@
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>Document.ДокументТЗ</content>
   <content>Catalog.ЭтапыПроекта</content>
+  <content>Catalog.Классы</content>
+  <content>DataProcessor.ЗагрузкаМетаданныхКонфигурацииИзФайла</content>
+  <content>Catalog.СхемаДанных</content>
 </mdclass:Subsystem>
