@@ -12,4 +12,5 @@
   <content>Catalog.Классы</content>
   <content>DataProcessor.ЗагрузкаМетаданныхКонфигурацииИзФайла</content>
   <content>Catalog.СхемаДанных</content>
+  <content>Catalog.ОсобенностиЗаполненияРеквизитов</content>
 </mdclass:Subsystem>
