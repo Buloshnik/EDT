@@ -1028,7 +1028,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Очистить</v8:content>
+							<v8:content>Отменить</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -1687,7 +1687,7 @@
 		<drawingID>1</drawingID>
 	</namedItem>
 	<namedItem xsi:type="NamedItemCells">
-		<name>КнопкаОчиститьПоле</name>
+		<name>КнопкаОтменитьДанные1</name>
 		<area>
 			<type>Rectangle</type>
 			<beginRow>1</beginRow>
@@ -1696,12 +1696,8 @@
 			<endColumn>21</endColumn>
 		</area>
 	</namedItem>
-	<namedItem xsi:type="NamedItemDrawing">
-		<name>КнопкаУдалитьДанные</name>
-		<drawingID>2</drawingID>
-	</namedItem>
 	<namedItem xsi:type="NamedItemCells">
-		<name>КнопкаУдалитьЭлемент</name>
+		<name>КнопкаУдалить</name>
 		<area>
 			<type>Rectangle</type>
 			<beginRow>1</beginRow>
@@ -1709,6 +1705,10 @@
 			<beginColumn>28</beginColumn>
 			<endColumn>28</endColumn>
 		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemDrawing">
+		<name>КнопкаУдалитьДанные</name>
+		<drawingID>2</drawingID>
 	</namedItem>
 	<namedItem xsi:type="NamedItemCells">
 		<name>Текст</name>

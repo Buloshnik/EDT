@@ -1025,6 +1025,12 @@
 			<c>
 				<c>
 					<f>0</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Отменить</v8:content>
+						</v8:item>
+					</tl>
 				</c>
 			</c>
 			<c>
@@ -1055,6 +1061,12 @@
 			<c>
 				<c>
 					<f>0</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Удалить</v8:content>
+						</v8:item>
+					</tl>
 				</c>
 			</c>
 			<c>
@@ -1645,8 +1657,24 @@
 			</c>
 		</row>
 	</rowsItem>
+	<drawing>
+		<drawingType>Picture</drawingType>
+		<id>2</id>
+		<formatIndex>7</formatIndex>
+		<beginRow>1</beginRow>
+		<beginRowOffset>0</beginRowOffset>
+		<endRow>2</endRow>
+		<endRowOffset>3</endRowOffset>
+		<beginColumn>28</beginColumn>
+		<beginColumnOffset>0</beginColumnOffset>
+		<endColumn>29</endColumn>
+		<endColumnOffset>6</endColumnOffset>
+		<autoSize>false</autoSize>
+		<pictureSize>Stretch</pictureSize>
+		<pictureIndex>1</pictureIndex>
+	</drawing>
 	<templateMode>true</templateMode>
-	<defaultFormatIndex>7</defaultFormatIndex>
+	<defaultFormatIndex>8</defaultFormatIndex>
 	<height>9</height>
 	<vgRows>9</vgRows>
 	<merge>
@@ -1681,6 +1709,16 @@
 		</area>
 	</namedItem>
 	<namedItem xsi:type="NamedItemCells">
+		<name>КнопкаВыбратьКартинку</name>
+		<area>
+			<type>Rectangle</type>
+			<beginRow>1</beginRow>
+			<endRow>1</endRow>
+			<beginColumn>21</beginColumn>
+			<endColumn>21</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
 		<name>ПолеКартинки</name>
 		<area>
 			<type>Rectangle</type>
@@ -1690,6 +1728,9 @@
 			<endColumn>35</endColumn>
 		</area>
 	</namedItem>
+	<line width="1" gap="false">
+		<v8ui:style xsi:type="v8ui:SpreadsheetDocumentDrawingLineType">None</v8ui:style>
+	</line>
 	<format>
 		<width>16</width>
 	</format>
@@ -1701,6 +1742,7 @@
 		<valueType>
 			<v8:Type>xs:boolean</v8:Type>
 		</valueType>
+		<picIndex>2</picIndex>
 		<textPosition>Right</textPosition>
 	</format>
 	<format>
@@ -1730,6 +1772,18 @@
 		</valueType>
 	</format>
 	<format>
+		<drawingBorder>0</drawingBorder>
+		<hyperLink>false</hyperLink>
+	</format>
+	<format>
 		<width>72</width>
 	</format>
+	<picture>
+		<index>1</index>
+		<picture t="false" ref="v8ui:MarkToDelete"/>
+	</picture>
+	<picture>
+		<index>0</index>
+		<picture t="false" ref="v8ui:UndoPosting"/>
+	</picture>
 </document>
