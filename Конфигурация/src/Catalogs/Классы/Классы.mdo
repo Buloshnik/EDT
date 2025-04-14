@@ -455,6 +455,54 @@
       <key>ru</key>
       <value>ТЧОсобенности заполнения</value>
     </synonym>
+    <attributes uuid="605de704-36db-4325-a7d7-f9434ead1b34">
+      <name>ИмяТаблицы</name>
+      <synonym>
+        <key>ru</key>
+        <value>Имя таблицы</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>255</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="64455a89-4002-4de3-9186-9e8ae298262b">
+      <name>ИмяРеквизита</name>
+      <synonym>
+        <key>ru</key>
+        <value>Имя реквизита</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>255</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="c4bf1d0a-13be-4172-b767-9f8820b4fceb">
+      <name>ОсобенностиЗаполненияРеквизита</name>
+      <synonym>
+        <key>ru</key>
+        <value>Особенности заполнения реквизита</value>
+      </synonym>
+      <type>
+        <types>CatalogRef.ОсобенностиЗаполненияРеквизитов</types>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
   </tabularSections>
   <forms uuid="4d2d8757-83b2-4087-92aa-628d094330bc">
     <name>ФормаКласса</name>

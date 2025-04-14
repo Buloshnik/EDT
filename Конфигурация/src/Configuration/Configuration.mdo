@@ -616,6 +616,7 @@
   <catalogs>Catalog.ФизическиеЛица</catalogs>
   <catalogs>Catalog.СхемаДанных</catalogs>
   <catalogs>Catalog.Классы</catalogs>
+  <catalogs>Catalog.ОсобенностиЗаполненияРеквизитов</catalogs>
   <documents>Document.ДокументТЗ</documents>
   <enums>Enum.ВариантыОчисткиФайлов</enums>
   <enums>Enum.ВариантыСжатияTIFF</enums>
