@@ -529,4 +529,11 @@
       <value>Макет метаданных</value>
     </synonym>
   </templates>
+  <templates uuid="b048d3c4-135c-4964-9376-bf156e351072">
+    <name>Макет</name>
+    <synonym>
+      <key>ru</key>
+      <value>Макет</value>
+    </synonym>
+  </templates>
 </mdclass:Catalog>
