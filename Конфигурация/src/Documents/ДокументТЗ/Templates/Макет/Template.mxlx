@@ -587,12 +587,7 @@
 	<rowsItem>
 		<index>22</index>
 		<row>
-			<c>
-				<i>3</i>
-				<c>
-					<f>11</f>
-				</c>
-			</c>
+			<empty>true</empty>
 		</row>
 	</rowsItem>
 	<rowsItem>
@@ -601,7 +596,7 @@
 			<c>
 				<i>3</i>
 				<c>
-					<f>11</f>
+					<f>12</f>
 				</c>
 			</c>
 		</row>
@@ -612,7 +607,7 @@
 			<c>
 				<i>3</i>
 				<c>
-					<f>11</f>
+					<f>12</f>
 				</c>
 			</c>
 		</row>
@@ -629,13 +624,19 @@
 			<c>
 				<i>2</i>
 				<c>
-					<f>12</f>
+					<f>13</f>
+				</c>
+			</c>
+			<c>
+				<i>6</i>
+				<c>
+					<f>14</f>
 				</c>
 			</c>
 		</row>
 	</rowsItem>
 	<templateMode>true</templateMode>
-	<defaultFormatIndex>13</defaultFormatIndex>
+	<defaultFormatIndex>15</defaultFormatIndex>
 	<height>27</height>
 	<vgRows>27</vgRows>
 	<merge>
@@ -667,12 +668,22 @@
 	<merge>
 		<r>21</r>
 		<c>3</c>
-		<h>3</h>
+		<h>1</h>
+	</merge>
+	<merge>
+		<r>23</r>
+		<c>3</c>
+		<h>1</h>
 	</merge>
 	<merge>
 		<r>26</r>
 		<c>2</c>
-		<w>6</w>
+		<w>3</w>
+	</merge>
+	<merge>
+		<r>26</r>
+		<c>6</c>
+		<w>2</w>
 	</merge>
 	<namedItem xsi:type="NamedItemCells">
 		<name>ДатаПроекта</name>
@@ -682,6 +693,26 @@
 			<endRow>3</endRow>
 			<beginColumn>2</beginColumn>
 			<endColumn>9</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
+		<name>Добавить</name>
+		<area>
+			<type>Rectangle</type>
+			<beginRow>23</beginRow>
+			<endRow>24</endRow>
+			<beginColumn>3</beginColumn>
+			<endColumn>3</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
+		<name>Добавить1</name>
+		<area>
+			<type>Rectangle</type>
+			<beginRow>26</beginRow>
+			<endRow>26</endRow>
+			<beginColumn>6</beginColumn>
+			<endColumn>8</endColumn>
 		</area>
 	</namedItem>
 	<namedItem xsi:type="NamedItemCells">
@@ -795,6 +826,26 @@
 		</area>
 	</namedItem>
 	<namedItem xsi:type="NamedItemCells">
+		<name>Удалить</name>
+		<area>
+			<type>Rectangle</type>
+			<beginRow>21</beginRow>
+			<endRow>22</endRow>
+			<beginColumn>3</beginColumn>
+			<endColumn>3</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
+		<name>Удалить1</name>
+		<area>
+			<type>Rectangle</type>
+			<beginRow>26</beginRow>
+			<endRow>26</endRow>
+			<beginColumn>2</beginColumn>
+			<endColumn>5</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
 		<name>шап</name>
 		<area>
 			<type>Rectangle</type>
@@ -802,6 +853,16 @@
 			<endRow>20</endRow>
 			<beginColumn>3</beginColumn>
 			<endColumn>3</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
+		<name>Яч</name>
+		<area>
+			<type>Rectangle</type>
+			<beginRow>22</beginRow>
+			<endRow>22</endRow>
+			<beginColumn>7</beginColumn>
+			<endColumn>7</endColumn>
 		</area>
 	</namedItem>
 	<namedItem xsi:type="NamedItemCells">
@@ -902,8 +963,16 @@
 		<picVerticalAlignment>Center</picVerticalAlignment>
 	</format>
 	<format>
+		<picIndex>2</picIndex>
+		<picVerticalAlignment>Bottom</picVerticalAlignment>
+	</format>
+	<format>
 		<picIndex>1</picIndex>
 		<picHorizontalAlignment>Center</picHorizontalAlignment>
+	</format>
+	<format>
+		<picIndex>2</picIndex>
+		<picHorizontalAlignment>Right</picHorizontalAlignment>
 	</format>
 	<format>
 		<width>72</width>
@@ -911,5 +980,9 @@
 	<picture>
 		<index>0</index>
 		<picture t="false" ref="v8ui:AppearanceCrossIcon"/>
+	</picture>
+	<picture>
+		<index>1</index>
+		<picture t="false" ref="v8ui:CreateListItem"/>
 	</picture>
 </document>
