@@ -160,6 +160,25 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="09dfefc6-3204-49e2-815b-3a724220959b">
+    <name>Уровень</name>
+    <synonym>
+      <key>ru</key>
+      <value>Уровень</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>2</precision>
+        <nonNegative>true</nonNegative>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <tabularSections uuid="7057c019-d54d-4d93-a9a8-7cad29033a2e">
     <producedTypes>
       <objectType typeId="9560523a-a850-45b7-8e61-421739b8c96f" valueTypeId="1ee6f7e5-d48f-4972-952b-63942bf2f99b"/>
@@ -241,7 +260,7 @@
       <type>
         <types>String</types>
         <stringQualifiers>
-          <length>50</length>
+          <length>200</length>
         </stringQualifiers>
       </type>
       <minValue xsi:type="core:UndefinedValue"/>
@@ -257,9 +276,7 @@
       </synonym>
       <type>
         <types>String</types>
-        <stringQualifiers>
-          <length>50</length>
-        </stringQualifiers>
+        <stringQualifiers/>
       </type>
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>
@@ -364,6 +381,13 @@
     <synonym>
       <key>ru</key>
       <value>Картинка</value>
+    </synonym>
+  </templates>
+  <templates uuid="a34bbc0a-3ca1-437c-8611-1b054165646f">
+    <name>Список</name>
+    <synonym>
+      <key>ru</key>
+      <value>Список</value>
     </synonym>
   </templates>
 </mdclass:Catalog>

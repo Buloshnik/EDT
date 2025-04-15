@@ -105,4 +105,11 @@
       <value>Изображение</value>
     </synonym>
   </enumValues>
+  <enumValues uuid="41e184a3-916c-498f-b453-f212e15d8a09">
+    <name>Список</name>
+    <synonym>
+      <key>ru</key>
+      <value>Список</value>
+    </synonym>
+  </enumValues>
 </mdclass:Enum>
