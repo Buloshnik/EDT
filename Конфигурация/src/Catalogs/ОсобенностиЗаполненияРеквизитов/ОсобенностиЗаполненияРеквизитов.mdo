@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="021e1d86-0220-4153-90b1-e8a5920f7eb0">
+  <producedTypes>
+    <objectType typeId="8dd34f57-c495-4032-a574-a848b552614a" valueTypeId="f6480d47-1932-4173-b160-f886e5e82975"/>
+    <refType typeId="b61b0bfd-8d08-4803-b2ed-e65a63be7218" valueTypeId="208a854d-06a0-4bc2-8ccb-cdee9e8476b7"/>
+    <selectionType typeId="0de391a2-f29e-408a-a10c-e987f08bfa67" valueTypeId="5d42971e-d43e-4a90-b9f6-7f98f7b55ba4"/>
+    <listType typeId="aa8672d8-7c73-4221-9017-b3e69a3a125e" valueTypeId="4053089e-f882-49c3-9c83-de99efd2dd85"/>
+    <managerType typeId="c2829554-6665-46a7-a88e-0f89ad877215" valueTypeId="94c87b4e-fc9f-4c11-a699-3e44d2799dbd"/>
+  </producedTypes>
+  <name>ОсобенностиЗаполненияРеквизитов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Особенности заполнения реквизитов</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.ОсобенностиЗаполненияРеквизитов.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.ОсобенностиЗаполненияРеквизитов.StandardAttribute.Code</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>150</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
