@@ -837,19 +837,12 @@
 			</c>
 			<c>
 				<c>
-					<f>2</f>
-					<tl/>
+					<f>1</f>
 				</c>
 			</c>
 			<c>
 				<c>
 					<f>1</f>
-					<tl>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Добавить столбец</v8:content>
-						</v8:item>
-					</tl>
 				</c>
 			</c>
 			<c>
@@ -889,22 +882,40 @@
 			</c>
 			<c>
 				<c>
-					<f>3</f>
+					<f>0</f>
 				</c>
 			</c>
 			<c>
 				<c>
 					<f>0</f>
-					<tl>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Добавить строку</v8:content>
-						</v8:item>
-					</tl>
 				</c>
 			</c>
 			<c>
-				<i>30</i>
+				<c>
+					<f>0</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>0</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>0</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>0</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>0</f>
+				</c>
+			</c>
+			<c>
 				<c>
 					<f>0</f>
 				</c>
@@ -956,122 +967,18 @@
 			</c>
 			<c>
 				<c>
-					<f>4</f>
-				</c>
-			</c>
-			<c>
-				<i>13</i>
-				<c>
-					<f>0</f>
+					<f>2</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>5</f>
+					<f>3</f>
 				</c>
 			</c>
 			<c>
+				<i>5</i>
 				<c>
-					<f>1</f>
-					<tl>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Удалить столбец</v8:content>
-						</v8:item>
-					</tl>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>1</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>1</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>1</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>1</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>1</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>1</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>6</f>
-					<tl/>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-					<tl>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Удалить строку</v8:content>
-						</v8:item>
-					</tl>
-				</c>
-			</c>
-			<c>
-				<i>30</i>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
+					<f>2</f>
 				</c>
 			</c>
 		</row>
@@ -1080,163 +987,7 @@
 		<index>2</index>
 		<row>
 			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>7</f>
-					<v xsi:type="xs:string"/>
-				</c>
-			</c>
-			<c>
-				<i>9</i>
-				<c>
-					<f>8</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>8</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>8</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>8</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>8</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>8</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>8</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>8</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>8</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>8</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>8</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>8</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>8</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>8</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>8</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>8</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>8</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>8</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>8</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>8</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>8</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>8</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>8</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>8</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>8</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>8</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>8</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
+				<i>2</i>
 				<c>
 					<f>0</f>
 				</c>
@@ -1258,143 +1009,144 @@
 			</c>
 			<c>
 				<c>
-					<f>9</f>
+					<f>4</f>
+					<v xsi:type="xs:string"/>
 				</c>
 			</c>
 			<c>
 				<i>9</i>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
@@ -1424,143 +1176,143 @@
 			</c>
 			<c>
 				<c>
-					<f>10</f>
+					<f>6</f>
 				</c>
 			</c>
 			<c>
 				<i>9</i>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
@@ -1590,143 +1342,143 @@
 			</c>
 			<c>
 				<c>
-					<f>11</f>
+					<f>7</f>
 				</c>
 			</c>
 			<c>
 				<i>9</i>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
@@ -1756,143 +1508,143 @@
 			</c>
 			<c>
 				<c>
-					<f>11</f>
+					<f>8</f>
 				</c>
 			</c>
 			<c>
 				<i>9</i>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>8</f>
+					<f>5</f>
 				</c>
 			</c>
 			<c>
@@ -1922,7 +1674,173 @@
 			</c>
 			<c>
 				<c>
-					<f>11</f>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<i>9</i>
+				<c>
+					<f>5</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>5</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>5</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>5</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>5</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>5</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>5</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>5</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>5</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>5</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>5</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>5</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>5</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>5</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>5</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>5</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>5</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>5</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>5</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>5</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>5</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>5</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>5</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>5</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>5</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>5</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>5</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>0</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>0</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>8</index>
+		<row>
+			<c>
+				<c>
+					<f>0</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>0</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
 				</c>
 			</c>
 			<c>
@@ -2075,7 +1993,7 @@
 		</row>
 	</rowsItem>
 	<rowsItem>
-		<index>8</index>
+		<index>9</index>
 		<row>
 			<c>
 				<c>
@@ -2270,42 +2188,32 @@
 		</row>
 	</rowsItem>
 	<templateMode>true</templateMode>
-	<defaultFormatIndex>12</defaultFormatIndex>
-	<height>9</height>
-	<vgRows>9</vgRows>
+	<defaultFormatIndex>9</defaultFormatIndex>
+	<height>10</height>
+	<vgRows>10</vgRows>
 	<merge>
-		<r>0</r>
-		<c>15</c>
-		<w>6</w>
-	</merge>
-	<merge>
-		<r>0</r>
-		<c>24</c>
-		<w>5</w>
+		<r>1</r>
+		<c>2</c>
+		<w>2</w>
 	</merge>
 	<merge>
 		<r>1</r>
-		<c>1</c>
-		<w>11</w>
-	</merge>
-	<merge>
-		<r>1</r>
-		<c>15</c>
-		<w>6</w>
-	</merge>
-	<merge>
-		<r>1</r>
-		<c>24</c>
-		<w>5</w>
+		<c>5</c>
+		<w>32</w>
 	</merge>
 	<merge>
 		<r>2</r>
+		<c>2</c>
+		<w>35</w>
+	</merge>
+	<merge>
+		<r>3</r>
 		<c>2</c>
 		<h>1</h>
 		<w>6</w>
 	</merge>
 	<merge>
-		<r>4</r>
+		<r>5</r>
 		<c>2</c>
 		<h>3</h>
 		<w>6</w>
@@ -2321,56 +2229,16 @@
 			<type>Rectangle</type>
 			<beginRow>1</beginRow>
 			<endRow>1</endRow>
-			<beginColumn>1</beginColumn>
-			<endColumn>12</endColumn>
-		</area>
-	</namedItem>
-	<namedItem xsi:type="NamedItemCells">
-		<name>КнопкаДобавитьСтолбец</name>
-		<area>
-			<type>Rectangle</type>
-			<beginRow>0</beginRow>
-			<endRow>0</endRow>
-			<beginColumn>14</beginColumn>
-			<endColumn>14</endColumn>
-		</area>
-	</namedItem>
-	<namedItem xsi:type="NamedItemCells">
-		<name>КнопкаДобавитьСтроку</name>
-		<area>
-			<type>Rectangle</type>
-			<beginRow>0</beginRow>
-			<endRow>0</endRow>
-			<beginColumn>23</beginColumn>
-			<endColumn>23</endColumn>
-		</area>
-	</namedItem>
-	<namedItem xsi:type="NamedItemCells">
-		<name>КнопкаУдалитьСтолбец</name>
-		<area>
-			<type>Rectangle</type>
-			<beginRow>1</beginRow>
-			<endRow>1</endRow>
-			<beginColumn>14</beginColumn>
-			<endColumn>14</endColumn>
-		</area>
-	</namedItem>
-	<namedItem xsi:type="NamedItemCells">
-		<name>КнопкаУдалитьСтроку</name>
-		<area>
-			<type>Rectangle</type>
-			<beginRow>1</beginRow>
-			<endRow>1</endRow>
-			<beginColumn>23</beginColumn>
-			<endColumn>23</endColumn>
+			<beginColumn>5</beginColumn>
+			<endColumn>37</endColumn>
 		</area>
 	</namedItem>
 	<namedItem xsi:type="NamedItemCells">
 		<name>Строка</name>
 		<area>
 			<type>Rectangle</type>
-			<beginRow>4</beginRow>
-			<endRow>7</endRow>
+			<beginRow>5</beginRow>
+			<endRow>8</endRow>
 			<beginColumn>2</beginColumn>
 			<endColumn>8</endColumn>
 		</area>
@@ -2380,17 +2248,37 @@
 		<area>
 			<type>Rectangle</type>
 			<beginRow>0</beginRow>
-			<endRow>8</endRow>
+			<endRow>9</endRow>
 			<beginColumn>0</beginColumn>
 			<endColumn>37</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
+		<name>Текст</name>
+		<area>
+			<type>Rectangle</type>
+			<beginRow>2</beginRow>
+			<endRow>2</endRow>
+			<beginColumn>2</beginColumn>
+			<endColumn>37</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
+		<name>Уровень</name>
+		<area>
+			<type>Rectangle</type>
+			<beginRow>1</beginRow>
+			<endRow>1</endRow>
+			<beginColumn>2</beginColumn>
+			<endColumn>4</endColumn>
 		</area>
 	</namedItem>
 	<namedItem xsi:type="NamedItemCells">
 		<name>Шапка</name>
 		<area>
 			<type>Rectangle</type>
-			<beginRow>2</beginRow>
-			<endRow>3</endRow>
+			<beginRow>3</beginRow>
+			<endRow>4</endRow>
 			<beginColumn>2</beginColumn>
 			<endColumn>8</endColumn>
 		</area>
@@ -2400,13 +2288,6 @@
 	</line>
 	<format>
 		<width>16</width>
-	</format>
-	<format>
-		<width>16</width>
-		<picIndex>1</picIndex>
-	</format>
-	<format>
-		<picIndex>2</picIndex>
 	</format>
 	<format>
 		<fillType>Text</fillType>
@@ -2420,11 +2301,16 @@
 		</valueType>
 	</format>
 	<format>
-		<width>16</width>
-		<picIndex>3</picIndex>
-	</format>
-	<format>
-		<picIndex>4</picIndex>
+		<horizontalAlignment>Left</horizontalAlignment>
+		<fillType>Text</fillType>
+		<containsValue>true</containsValue>
+		<valueType>
+			<v8:Type>xs:string</v8:Type>
+			<v8:StringQualifiers>
+				<v8:Length>0</v8:Length>
+				<v8:AllowedLength>Variable</v8:AllowedLength>
+			</v8:StringQualifiers>
+		</valueType>
 	</format>
 	<format>
 		<backColor>style:ФонУправляющегоПоля</backColor>
@@ -2485,20 +2371,4 @@
 	<format>
 		<width>72</width>
 	</format>
-	<picture>
-		<index>0</index>
-		<picture t="false" ref="v8ui:MoveRight"/>
-	</picture>
-	<picture>
-		<index>1</index>
-		<picture t="false" ref="v8ui:MoveDown"/>
-	</picture>
-	<picture>
-		<index>2</index>
-		<picture t="false" ref="v8ui:MoveLeft"/>
-	</picture>
-	<picture>
-		<index>3</index>
-		<picture t="false" ref="v8ui:MoveUp"/>
-	</picture>
 </document>

@@ -765,346 +765,14 @@
 	<rowsItem>
 		<index>0</index>
 		<row>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
+			<empty>true</empty>
 		</row>
 	</rowsItem>
 	<rowsItem>
 		<index>1</index>
 		<row>
 			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>2</f>
-					<tl/>
-				</c>
-			</c>
-			<c>
-				<i>13</i>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>3</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>4</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-					<tl>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Очистить</v8:content>
-						</v8:item>
-					</tl>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>5</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-					<tl>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Удалить</v8:content>
-						</v8:item>
-					</tl>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
+				<i>1</i>
 				<c>
 					<f>0</f>
 				</c>
@@ -1114,39 +782,25 @@
 	<rowsItem>
 		<index>2</index>
 		<row>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>6</f>
-					<v xsi:type="xs:string"/>
-				</c>
-			</c>
-			<c>
-				<i>36</i>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
+			<empty>true</empty>
 		</row>
 	</rowsItem>
 	<rowsItem>
 		<index>3</index>
 		<row>
 			<c>
+				<i>1</i>
+				<c>
+					<f>0</f>
+				</c>
+			</c>
+			<c>
+				<i>14</i>
+				<c>
+					<f>2</f>
+				</c>
+			</c>
+			<c>
 				<c>
 					<f>0</f>
 				</c>
@@ -1158,11 +812,10 @@
 			</c>
 			<c>
 				<c>
-					<f>7</f>
+					<f>0</f>
 				</c>
 			</c>
 			<c>
-				<i>36</i>
 				<c>
 					<f>0</f>
 				</c>
@@ -1178,540 +831,74 @@
 		<index>4</index>
 		<row>
 			<c>
+				<i>14</i>
 				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>7</f>
-				</c>
-			</c>
-			<c>
-				<i>36</i>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
+					<f>3</f>
 				</c>
 			</c>
 		</row>
 	</rowsItem>
 	<rowsItem>
 		<index>5</index>
+		<indexTo>8</indexTo>
 		<row>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>7</f>
-				</c>
-			</c>
-			<c>
-				<i>36</i>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-		</row>
-	</rowsItem>
-	<rowsItem>
-		<index>6</index>
-		<row>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>7</f>
-				</c>
-			</c>
-			<c>
-				<i>36</i>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-		</row>
-	</rowsItem>
-	<rowsItem>
-		<index>7</index>
-		<row>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-		</row>
-	</rowsItem>
-	<rowsItem>
-		<index>8</index>
-		<row>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>1</f>
-				</c>
-			</c>
+			<empty>true</empty>
 		</row>
 	</rowsItem>
 	<templateMode>true</templateMode>
-	<defaultFormatIndex>8</defaultFormatIndex>
+	<defaultFormatIndex>4</defaultFormatIndex>
 	<height>9</height>
 	<vgRows>9</vgRows>
 	<merge>
 		<r>1</r>
 		<c>1</c>
-		<w>11</w>
+		<w>8</w>
 	</merge>
 	<merge>
-		<r>2</r>
-		<c>2</c>
-		<h>4</h>
-		<w>33</w>
+		<r>3</r>
+		<c>1</c>
+		<w>12</w>
 	</merge>
 	<namedItem xsi:type="NamedItemCells">
-		<name>ЗаголовокТекста</name>
+		<name>КнопкаДобавитьСтроку</name>
 		<area>
 			<type>Rectangle</type>
-			<beginRow>1</beginRow>
-			<endRow>1</endRow>
-			<beginColumn>1</beginColumn>
-			<endColumn>12</endColumn>
+			<beginRow>4</beginRow>
+			<endRow>4</endRow>
+			<beginColumn>14</beginColumn>
+			<endColumn>14</endColumn>
 		</area>
 	</namedItem>
 	<namedItem xsi:type="NamedItemDrawing">
 		<name>КнопкаОтменитьДанные</name>
 		<drawingID>1</drawingID>
 	</namedItem>
-	<namedItem xsi:type="NamedItemCells">
-		<name>КнопкаОчиститьПоле</name>
-		<area>
-			<type>Rectangle</type>
-			<beginRow>1</beginRow>
-			<endRow>1</endRow>
-			<beginColumn>21</beginColumn>
-			<endColumn>21</endColumn>
-		</area>
-	</namedItem>
 	<namedItem xsi:type="NamedItemDrawing">
 		<name>КнопкаУдалитьДанные</name>
 		<drawingID>2</drawingID>
 	</namedItem>
 	<namedItem xsi:type="NamedItemCells">
-		<name>КнопкаУдалитьЭлемент</name>
+		<name>КнопкаУдалитьСтроку</name>
+		<area>
+			<type>Rectangle</type>
+			<beginRow>3</beginRow>
+			<endRow>3</endRow>
+			<beginColumn>14</beginColumn>
+			<endColumn>14</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
+		<name>Оглавление</name>
 		<area>
 			<type>Rectangle</type>
 			<beginRow>1</beginRow>
 			<endRow>1</endRow>
-			<beginColumn>28</beginColumn>
-			<endColumn>28</endColumn>
+			<beginColumn>1</beginColumn>
+			<endColumn>9</endColumn>
 		</area>
 	</namedItem>
 	<namedItem xsi:type="NamedItemCells">
-		<name>Текст</name>
+		<name>Список</name>
 		<area>
 			<type>Rectangle</type>
 			<beginRow>0</beginRow>
@@ -1721,69 +908,33 @@
 		</area>
 	</namedItem>
 	<namedItem xsi:type="NamedItemCells">
-		<name>ТекстовоеПоле</name>
+		<name>Строка</name>
 		<area>
 			<type>Rectangle</type>
-			<beginRow>2</beginRow>
-			<endRow>6</endRow>
-			<beginColumn>2</beginColumn>
-			<endColumn>35</endColumn>
+			<beginRow>3</beginRow>
+			<endRow>3</endRow>
+			<beginColumn>1</beginColumn>
+			<endColumn>13</endColumn>
 		</area>
 	</namedItem>
 	<format>
 		<width>16</width>
 	</format>
 	<format>
-		<fillType>Text</fillType>
-	</format>
-	<format>
-		<containsValue>true</containsValue>
-		<valueType>
-			<v8:Type>xs:boolean</v8:Type>
-		</valueType>
 		<picIndex>1</picIndex>
-		<textPosition>Right</textPosition>
-	</format>
-	<format>
-		<fillType>Text</fillType>
-		<containsValue>false</containsValue>
 	</format>
 	<format>
 		<picIndex>2</picIndex>
 	</format>
 	<format>
-		<backColor>style:ФонУправляющегоПоля</backColor>
-		<protection>false</protection>
-		<containsValue>true</containsValue>
-		<valueType>
-			<v8:Type>xs:string</v8:Type>
-			<v8:StringQualifiers>
-				<v8:Length>0</v8:Length>
-				<v8:AllowedLength>Variable</v8:AllowedLength>
-			</v8:StringQualifiers>
-		</valueType>
-		<controlType>381ed624-9217-4e63-85db-c4c3cb87daae</controlType>
-	</format>
-	<format>
-		<backColor>style:ФонУправляющегоПоля</backColor>
-		<protection>false</protection>
-		<valueType>
-			<v8:Type>xs:string</v8:Type>
-			<v8:StringQualifiers>
-				<v8:Length>0</v8:Length>
-				<v8:AllowedLength>Variable</v8:AllowedLength>
-			</v8:StringQualifiers>
-		</valueType>
-	</format>
-	<format>
 		<width>72</width>
 	</format>
 	<picture>
-		<index>0</index>
-		<picture t="false" ref="v8ui:UndoPosting"/>
+		<index>3</index>
+		<picture t="false" ref="v8ui:Delete"/>
 	</picture>
 	<picture>
-		<index>1</index>
-		<picture t="false" ref="v8ui:MarkToDelete"/>
+		<index>2</index>
+		<picture t="false" ref="v8ui:CreateListItem"/>
 	</picture>
 </document>
