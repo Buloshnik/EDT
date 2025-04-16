@@ -179,6 +179,21 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="5418db3e-939b-4643-a731-29464a91099d">
+    <name>ВыводитьНаФорму</name>
+    <synonym>
+      <key>ru</key>
+      <value>Выводить на форму</value>
+    </synonym>
+    <type>
+      <types>Boolean</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <tabularSections uuid="7057c019-d54d-4d93-a9a8-7cad29033a2e">
     <producedTypes>
       <objectType typeId="9560523a-a850-45b7-8e61-421739b8c96f" valueTypeId="1ee6f7e5-d48f-4972-952b-63942bf2f99b"/>
@@ -339,6 +354,68 @@
         <stringQualifiers>
           <length>50</length>
         </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+  </tabularSections>
+  <tabularSections uuid="8206ffb7-2203-45ae-9d51-f99fe576e66b">
+    <producedTypes>
+      <objectType typeId="0d1f251c-fe60-47a7-ba7f-0a1a32f9832c" valueTypeId="6bbe36ca-4aff-41de-8d49-aef93e6434f1"/>
+      <rowType typeId="f890368d-0f5b-445f-b436-52ddf55c535c" valueTypeId="e49951a6-d004-4a8d-ad0f-c22eef040800"/>
+    </producedTypes>
+    <name>ТчДанныеСписка</name>
+    <synonym>
+      <key>ru</key>
+      <value>Тч данные списка</value>
+    </synonym>
+    <attributes uuid="5bfebbf0-631d-4e3a-9e2b-657228b8c95a">
+      <name>Данные</name>
+      <synonym>
+        <key>ru</key>
+        <value>Данные</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers/>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="458c94f7-7800-4340-93f0-0b6bac5c5f30">
+      <name>Номер</name>
+      <synonym>
+        <key>ru</key>
+        <value>Номер</value>
+      </synonym>
+      <type>
+        <types>Number</types>
+        <numberQualifiers>
+          <precision>2</precision>
+          <nonNegative>true</nonNegative>
+        </numberQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="2ee4fe0e-271c-448b-a80e-a8eefb41859b">
+      <name>Уровень</name>
+      <synonym>
+        <key>ru</key>
+        <value>Уровень</value>
+      </synonym>
+      <type>
+        <types>Number</types>
+        <numberQualifiers>
+          <precision>2</precision>
+          <nonNegative>true</nonNegative>
+        </numberQualifiers>
       </type>
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>
