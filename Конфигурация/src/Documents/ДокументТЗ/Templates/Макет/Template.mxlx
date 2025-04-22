@@ -635,10 +635,32 @@
 			</c>
 		</row>
 	</rowsItem>
+	<rowsItem>
+		<index>27</index>
+		<row>
+			<empty>true</empty>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>28</index>
+		<row>
+			<c>
+				<i>2</i>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>16</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
 	<templateMode>true</templateMode>
-	<defaultFormatIndex>15</defaultFormatIndex>
-	<height>27</height>
-	<vgRows>27</vgRows>
+	<defaultFormatIndex>17</defaultFormatIndex>
+	<height>29</height>
+	<vgRows>29</vgRows>
 	<merge>
 		<r>3</r>
 		<c>2</c>
@@ -736,6 +758,26 @@
 		</area>
 	</namedItem>
 	<namedItem xsi:type="NamedItemCells">
+		<name>КнопкаДобавитьСтроку</name>
+		<area>
+			<type>Rectangle</type>
+			<beginRow>28</beginRow>
+			<endRow>28</endRow>
+			<beginColumn>2</beginColumn>
+			<endColumn>2</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
+		<name>КнопкаУдалитьСтроку</name>
+		<area>
+			<type>Rectangle</type>
+			<beginRow>28</beginRow>
+			<endRow>28</endRow>
+			<beginColumn>3</beginColumn>
+			<endColumn>3</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
 		<name>кол1</name>
 		<area>
 			<type>Rectangle</type>
@@ -803,6 +845,16 @@
 			<endRow>17</endRow>
 			<beginColumn>-1</beginColumn>
 			<endColumn>-1</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
+		<name>СписокПраво</name>
+		<area>
+			<type>Rectangle</type>
+			<beginRow>28</beginRow>
+			<endRow>28</endRow>
+			<beginColumn>2</beginColumn>
+			<endColumn>3</endColumn>
 		</area>
 	</namedItem>
 	<namedItem xsi:type="NamedItemCells">
@@ -904,7 +956,7 @@
 		</valueType>
 	</format>
 	<format>
-		<backColor>#FFFF99</backColor>
+		<backColor>style:AuxiliaryNavigationColor</backColor>
 		<fillType>Text</fillType>
 		<protection>false</protection>
 		<containsValue>true</containsValue>
@@ -975,6 +1027,14 @@
 		<picHorizontalAlignment>Right</picHorizontalAlignment>
 	</format>
 	<format>
+		<width>16</width>
+		<picIndex>3</picIndex>
+	</format>
+	<format>
+		<width>16</width>
+		<picIndex>4</picIndex>
+	</format>
+	<format>
 		<width>72</width>
 	</format>
 	<picture>
@@ -984,5 +1044,13 @@
 	<picture>
 		<index>1</index>
 		<picture t="false" ref="v8ui:CreateListItem"/>
+	</picture>
+	<picture>
+		<index>2</index>
+		<picture t="false" ref="v8ui:CreateListItem"/>
+	</picture>
+	<picture>
+		<index>3</index>
+		<picture t="false" ref="v8ui:Delete"/>
 	</picture>
 </document>
