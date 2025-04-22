@@ -1694,6 +1694,7 @@
 		<width>16</width>
 	</format>
 	<format>
+		<backColor>style:ReportHeaderBackColor</backColor>
 		<fillType>Text</fillType>
 	</format>
 	<format>
@@ -1708,6 +1709,7 @@
 		<containsValue>false</containsValue>
 	</format>
 	<format>
+		<verticalAlignment>Center</verticalAlignment>
 		<backColor>style:ФонУправляющегоПоля</backColor>
 		<containsValue>true</containsValue>
 		<valueType>
@@ -1718,8 +1720,10 @@
 			</v8:StringQualifiers>
 		</valueType>
 		<controlType>381ed624-9217-4e63-85db-c4c3cb87daae</controlType>
+		<indent>2</indent>
 	</format>
 	<format>
+		<verticalAlignment>Center</verticalAlignment>
 		<backColor>style:ФонУправляющегоПоля</backColor>
 		<valueType>
 			<v8:Type>xs:string</v8:Type>
@@ -1728,6 +1732,7 @@
 				<v8:AllowedLength>Variable</v8:AllowedLength>
 			</v8:StringQualifiers>
 		</valueType>
+		<indent>2</indent>
 	</format>
 	<format>
 		<width>72</width>

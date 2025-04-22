@@ -774,7 +774,7 @@
 			<c>
 				<i>1</i>
 				<c>
-					<f>0</f>
+					<f>2</f>
 				</c>
 			</c>
 		</row>
@@ -791,38 +791,7 @@
 			<c>
 				<i>1</i>
 				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<i>14</i>
-				<c>
-					<f>2</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
+					<f>3</f>
 				</c>
 			</c>
 		</row>
@@ -833,7 +802,7 @@
 			<c>
 				<i>14</i>
 				<c>
-					<f>3</f>
+					<f>1</f>
 				</c>
 			</c>
 		</row>
@@ -857,18 +826,8 @@
 	<merge>
 		<r>3</r>
 		<c>1</c>
-		<w>12</w>
+		<w>28</w>
 	</merge>
-	<namedItem xsi:type="NamedItemCells">
-		<name>КнопкаДобавитьСтроку</name>
-		<area>
-			<type>Rectangle</type>
-			<beginRow>4</beginRow>
-			<endRow>4</endRow>
-			<beginColumn>14</beginColumn>
-			<endColumn>14</endColumn>
-		</area>
-	</namedItem>
 	<namedItem xsi:type="NamedItemDrawing">
 		<name>КнопкаОтменитьДанные</name>
 		<drawingID>1</drawingID>
@@ -878,17 +837,7 @@
 		<drawingID>2</drawingID>
 	</namedItem>
 	<namedItem xsi:type="NamedItemCells">
-		<name>КнопкаУдалитьСтроку</name>
-		<area>
-			<type>Rectangle</type>
-			<beginRow>3</beginRow>
-			<endRow>3</endRow>
-			<beginColumn>14</beginColumn>
-			<endColumn>14</endColumn>
-		</area>
-	</namedItem>
-	<namedItem xsi:type="NamedItemCells">
-		<name>Оглавление</name>
+		<name>ОглавлениеСписка</name>
 		<area>
 			<type>Rectangle</type>
 			<beginRow>1</beginRow>
@@ -914,27 +863,36 @@
 			<beginRow>3</beginRow>
 			<endRow>3</endRow>
 			<beginColumn>1</beginColumn>
-			<endColumn>13</endColumn>
+			<endColumn>29</endColumn>
 		</area>
 	</namedItem>
 	<format>
 		<width>16</width>
 	</format>
 	<format>
-		<picIndex>1</picIndex>
+		<backColor>style:ReportHeaderBackColor</backColor>
+		<containsValue>true</containsValue>
+		<valueType>
+			<v8:Type>xs:string</v8:Type>
+			<v8:StringQualifiers>
+				<v8:Length>0</v8:Length>
+				<v8:AllowedLength>Variable</v8:AllowedLength>
+			</v8:StringQualifiers>
+		</valueType>
 	</format>
 	<format>
-		<picIndex>2</picIndex>
+		<textColor>style:FieldTextColor</textColor>
+		<backColor>style:AuxiliaryNavigationColor</backColor>
+		<containsValue>true</containsValue>
+		<valueType>
+			<v8:Type>xs:string</v8:Type>
+			<v8:StringQualifiers>
+				<v8:Length>0</v8:Length>
+				<v8:AllowedLength>Variable</v8:AllowedLength>
+			</v8:StringQualifiers>
+		</valueType>
 	</format>
 	<format>
 		<width>72</width>
 	</format>
-	<picture>
-		<index>3</index>
-		<picture t="false" ref="v8ui:Delete"/>
-	</picture>
-	<picture>
-		<index>2</index>
-		<picture t="false" ref="v8ui:CreateListItem"/>
-	</picture>
 </document>
