@@ -895,4 +895,14 @@
 	<format>
 		<width>72</width>
 	</format>
+
+	<picture>
+		<index>0</index>
+		<picture t="false" ref="v8ui:Delete"/>
+	</picture>
+	<picture>
+		<index>1</index>
+		<picture t="false" ref="v8ui:CreateListItem"/>
+	</picture>
+
 </document>
